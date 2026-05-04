@@ -1,69 +1,1034 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
-  <title>Currawong Games - Full Site Updates</title>
-  <subtitle>All updates across the entire Currawong Games website</subtitle>
+  <title>Currawong Games</title>
+  <subtitle>Updates from Currawong Games</subtitle>
   <link href="https://www.currawong.games/" rel="alternate" type="text/html" />
   <link href="https://www.currawong.games/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-04-05T16:06:00.000Z</updated>
+  <updated>2026-05-04T06:12:16.000Z</updated>
   <id>https://www.currawong.games/</id>
   <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#9212b0663689ecdecaf169b6197abdbee5f22622</id>
+    <updated>2026-05-04T06:12:16.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#9d0eb6c45242c8664b0ac864570789b8f99e1579</id>
+    <updated>2026-05-04T06:02:11.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Projects at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/#d5e787dbfe0823a8cbba2647dae96bf3aacbed04</id>
+    <updated>2026-05-04T05:53:35.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#d5e787dbfe0823a8cbba2647dae96bf3aacbed04</id>
+    <updated>2026-05-04T05:53:35.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
     <title>Currawong Games</title>
-    <link href="https://www.currawong.games/src/src/index.html" rel="alternate" type="text/html" />
-    <id>https://www.currawong.games/src/src/index.html#a95423d32f0743f83804bbb42a89af3e2eccdcc6</id>
+    <link href="https://www.currawong.games/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Support Currawong Games</title>
+    <link href="https://www.currawong.games/support/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/support/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Support Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Customer Support&lt;/h1&gt;&lt;p&gt;Need help? Drop us an email at &lt;a href=&quot;mailto:support@currawong.games&quot;&gt;support@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Support Currawong Games&lt;/h1&gt;&lt;p&gt;Thanks for considering throwing some support our way! Every little bit helps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stay tuned for ways to support us!&lt;/em&gt;&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Projects at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Places important to Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/places/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/places/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">feat(atom): add Atom feed generator for site updates</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Where we&#39;re from&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/places/upper-caboolture/&quot;&gt;Upper Caboolture&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/places/gubbi-gubbi/&quot;&gt;Gubbi Gubbi Country&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Our Worlds&lt;/h2&gt;&lt;p&gt;Stay tuned …&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Upper Caboolture — Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/places/upper-caboolture/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/places/upper-caboolture/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Upper Caboolture — Currawong Games Interactive.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Upper Caboolture&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Our studio is in Upper Caboolture, Queensland, Australia. Lots of sunshine and warm weather. &lt;a href=&quot;/currawong/&quot;&gt;Currawongs&lt;/a&gt; are plentiful, as are many other birds. It&#39;s a lovely place and we hope to show you more in our &lt;a href=&quot;/projects/&quot;&gt;games&lt;/a&gt;!&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Gubbi Gubbi</title>
+    <link href="https://www.currawong.games/places/gubbi-gubbi/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/places/gubbi-gubbi/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Gubbi Gubbi — the Traditional Custodians of the land where Currawong Games Interactive is based.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Gubbi Gubbi&lt;/h1&gt;&lt;/section&gt;&lt;figure class=&quot;content&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The Gubbi Gubbi people are the Traditional Custodians of the land located in South East Queensland, located in the Moreton Bay, Sunshine Coast, Noosa, Maryborough and Gympie region. The traditional lands of the Gubbi Gubbi people stretches from the northern banks of the Pine River in the south, to Burrum River in the north near Maryborough and to the Conondale Ranges in the west. Gubbi Gubbi Country includes the areas of Petrie, Redcliffe, Caboolture, Bribie Island, Sunshine Coast and hinterlands, Noosa, Rainbow Beach, Hervey Bay, Maryborough and Gympie. Gubbi Gubbi Country includes beautiful beaches, lakes, rivers, creeks, mountains and rainforests.&lt;/p&gt;&lt;/blockquote&gt;&lt;figcaption&gt;— &lt;a href=&quot;https://gubbigubbidyungungoo.com/&quot; rel=&quot;noopener&quot; title=&quot;Visit the Gubbi Gubbi Dyungungoo Group Inc. website&quot;&gt;Gubbi Gubbi Dyungungoo Group Inc.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
+  </entry>
+  <entry>
+    <title>About Currawongs - Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/currawong/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/currawong/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">About Currawongs</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawongs&lt;/h1&gt;&lt;p&gt;Learn about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pied_currawong&quot; target=&quot;_blank&quot;&gt;&lt;cite&gt;Pied Currawong&lt;/cite&gt; bird species on Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;audio src=&quot;/assets/currawong/Pied-Currawong-6409dc7c.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pied-Currawong.ogg&quot;&gt;Rob Geraghty&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img style=&quot;max-height:50dvh&quot; src=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.webp&quot; alt=&quot;Pied Currawong bird&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Strepera_graculina.jpg&quot;&gt;AdaMacey&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Currawongs are fun birds — you&#39;ll often hear them before you see them.&lt;/p&gt;&lt;p&gt;I used to hear Currawongs in Brisbane at dusk, on the walk to the train coming home. Their eerie calls would echo between the buildings. I always wondered what they looked like. It wasn&#39;t until they started flying over while going on walks in my neighbourhood that I got to see them.&lt;/p&gt;&lt;p&gt;They look a little like Magpies — also amazing birds, preferably when not swooping — darker, with those bright yellow eyes! And the distinctive calls :)&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Currawong Games Brand Guidelines</title>
+    <link href="https://www.currawong.games/brand/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/brand/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Brand Guidelines&lt;/h1&gt;&lt;p&gt;If you&#39;re using the Currawong Games brand, please give us a shout at &lt;a href=&quot;mailto:hello@currawong.games&quot;&gt;hello@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;h2&gt;Logo&lt;/h2&gt;&lt;figure&gt;&lt;a href=&quot;/assets/logo-7925efc5.svg&quot; download=&quot;currawong-games-logo.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Logo: &lt;i&gt;A stylised Pied Currawong (a type of Australian bird) with black feathers and white tips. It has a distinctive yellow eye. Curled to make the shape of &quot;C&quot; and &quot;G&quot; (Currawong Games).&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Icon&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/icon-4bc762b8.svg&quot; download=&quot;currawong-games-icon.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Icon: &lt;i&gt;Logo on yellow background for favicon and app icons.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Domain Mark&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-d315dae7.svg&quot; download=&quot;currawong-games-domain.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name: &lt;i&gt;&quot;currawong.games&quot; in Monaspace Xenon font. Dark text with a light outline and &quot;.&quot; in yellow inspired by the Currawong&#39;s eye.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-light-d23351e6.svg&quot; download=&quot;currawong-games-domain-light.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name (light): for light background.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Colours&lt;/h2&gt;&lt;table style=&quot;border-collapse:collapse&quot;&gt;&lt;caption&gt;Colour Palette (Currawong feathers and eyes)&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Colour&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;50&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;100&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;200&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;300&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;400&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;500&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;600&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;700&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;800&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;900&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;950&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Currawong&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Yellow&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Typography&lt;/h2&gt;&lt;p&gt;Font: &lt;abbr title=&quot;To Be Determined&quot;&gt;TBD&lt;/abbr&gt;&lt;/p&gt;&lt;p&gt;This website uses &lt;code&gt;system-ui&lt;/code&gt; for typography, respecting the visitor&#39;s system preferences.&lt;/p&gt;&lt;p&gt;Our &quot;currawong.games&quot; domain mark uses &lt;a href=&quot;https://monaspace.githubnext.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Monaspace Xenon&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>About Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/about/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/about/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;About Currawong Games Interactive&lt;/h1&gt;&lt;/section&gt;&lt;div class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;We want people to play a Currawong game and immediately want to tell someone about it.&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Story&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;Currawong Games Interactive is a father-son indie game studio based in &lt;a href=&quot;/upper-caboolture/&quot;&gt;Upper Caboolture, Queensland&lt;/a&gt;. We develop story-driven and family-friendly games, interactive narrative experiences, and creator tools — with an Australian flavour. We empower creatives through community participation, tools and transparency.&lt;/p&gt;&lt;p&gt;We offer story-rich, fairly priced games designed for players who value narrative depth and experiences worth sharing with the people they love.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Casual players looking for relaxed or story-driven games.&lt;/li&gt;&lt;li&gt;Parents and families sharing games/experiences.&lt;/li&gt;&lt;li&gt;Fans looking for rich franchises to become engrossed in.&lt;/li&gt;&lt;li&gt;Aspiring game developers, artists, creators with similar passions.&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Goals&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;To build a sustainable creative practice that supports our family, advances the craft of interactive storytelling, and gives back to the broader creative community — putting &lt;a href=&quot;/upper-caboolture/&quot;&gt;Caboolture&lt;/a&gt; on the map along the way.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Currawong Games</title>
+    <link href="https://www.currawong.games/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/#a95423d32f0743f83804bbb42a89af3e2eccdcc6</id>
     <updated>2026-04-05T16:06:00.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&amp;lt;section class=&amp;quot;hero&amp;quot;&amp;gt;
-    &amp;lt;h1&amp;gt;Currawong Games&amp;lt;/h1&amp;gt;
-    &amp;lt;p&amp;gt;Something is coming. Stay tuned.&amp;lt;/p&amp;gt;
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
 
-    &amp;lt;figure class=&amp;quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&amp;quot;&amp;gt;
-      &amp;lt;img src=&amp;quot;/assets/logo.svg&amp;quot; loading=&amp;quot;eager&amp;quot; class=&amp;quot;w-full h-full&amp;quot; alt=&amp;quot;Currawong Games&amp;quot; /&amp;gt;
-    &amp;lt;/figure&amp;gt;
-  &amp;lt;/section&amp;gt;</content>
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Currawong Games Brand Guidelines</title>
+    <link href="https://www.currawong.games/brand/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/brand/#a95423d32f0743f83804bbb42a89af3e2eccdcc6</id>
+    <updated>2026-04-05T16:06:00.000Z</updated>
+    <summary type="html">Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Brand Guidelines&lt;/h1&gt;&lt;p&gt;If you&#39;re using the Currawong Games brand, please give us a shout at &lt;a href=&quot;mailto:hello@currawong.games&quot;&gt;hello@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;h2&gt;Logo&lt;/h2&gt;&lt;figure&gt;&lt;a href=&quot;/assets/logo-7925efc5.svg&quot; download=&quot;currawong-games-logo.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Logo: &lt;i&gt;A stylised Pied Currawong (a type of Australian bird) with black feathers and white tips. It has a distinctive yellow eye. Curled to make the shape of &quot;C&quot; and &quot;G&quot; (Currawong Games).&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Icon&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/icon-4bc762b8.svg&quot; download=&quot;currawong-games-icon.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Icon: &lt;i&gt;Logo on yellow background for favicon and app icons.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Domain Mark&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-d315dae7.svg&quot; download=&quot;currawong-games-domain.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name: &lt;i&gt;&quot;currawong.games&quot; in Monaspace Xenon font. Dark text with a light outline and &quot;.&quot; in yellow inspired by the Currawong&#39;s eye.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-light-d23351e6.svg&quot; download=&quot;currawong-games-domain-light.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name (light): for light background.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Colours&lt;/h2&gt;&lt;table style=&quot;border-collapse:collapse&quot;&gt;&lt;caption&gt;Colour Palette (Currawong feathers and eyes)&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Colour&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;50&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;100&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;200&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;300&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;400&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;500&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;600&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;700&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;800&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;900&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;950&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Currawong&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Yellow&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Typography&lt;/h2&gt;&lt;p&gt;Font: &lt;abbr title=&quot;To Be Determined&quot;&gt;TBD&lt;/abbr&gt;&lt;/p&gt;&lt;p&gt;This website uses &lt;code&gt;system-ui&lt;/code&gt; for typography, respecting the visitor&#39;s system preferences.&lt;/p&gt;&lt;p&gt;Our &quot;currawong.games&quot; domain mark uses &lt;a href=&quot;https://monaspace.githubnext.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Monaspace Xenon&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games</title>
-    <link href="https://www.currawong.games/src/src/index.html" rel="alternate" type="text/html" />
-    <id>https://www.currawong.games/src/src/index.html#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <link href="https://www.currawong.games/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
     <updated>2026-04-05T05:27:48.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&amp;lt;section class=&amp;quot;hero&amp;quot;&amp;gt;
-    &amp;lt;h1&amp;gt;Currawong Games&amp;lt;/h1&amp;gt;
-    &amp;lt;p&amp;gt;Something is coming. Stay tuned.&amp;lt;/p&amp;gt;
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
 
-    &amp;lt;figure class=&amp;quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&amp;quot;&amp;gt;
-      &amp;lt;img src=&amp;quot;/assets/logo.svg&amp;quot; loading=&amp;quot;eager&amp;quot; class=&amp;quot;w-full h-full&amp;quot; alt=&amp;quot;Currawong Games&amp;quot; /&amp;gt;
-    &amp;lt;/figure&amp;gt;
-  &amp;lt;/section&amp;gt;</content>
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Support Currawong Games</title>
+    <link href="https://www.currawong.games/support/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/support/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Support Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Customer Support&lt;/h1&gt;&lt;p&gt;Need help? Drop us an email at &lt;a href=&quot;mailto:support@currawong.games&quot;&gt;support@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Support Currawong Games&lt;/h1&gt;&lt;p&gt;Thanks for considering throwing some support our way! Every little bit helps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stay tuned for ways to support us!&lt;/em&gt;&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Projects at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>About Currawongs - Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/currawong/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/currawong/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">About Currawongs</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawongs&lt;/h1&gt;&lt;p&gt;Learn about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pied_currawong&quot; target=&quot;_blank&quot;&gt;&lt;cite&gt;Pied Currawong&lt;/cite&gt; bird species on Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;audio src=&quot;/assets/currawong/Pied-Currawong-6409dc7c.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pied-Currawong.ogg&quot;&gt;Rob Geraghty&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img style=&quot;max-height:50dvh&quot; src=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.webp&quot; alt=&quot;Pied Currawong bird&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Strepera_graculina.jpg&quot;&gt;AdaMacey&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Currawongs are fun birds — you&#39;ll often hear them before you see them.&lt;/p&gt;&lt;p&gt;I used to hear Currawongs in Brisbane at dusk, on the walk to the train coming home. Their eerie calls would echo between the buildings. I always wondered what they looked like. It wasn&#39;t until they started flying over while going on walks in my neighbourhood that I got to see them.&lt;/p&gt;&lt;p&gt;They look a little like Magpies — also amazing birds, preferably when not swooping — darker, with those bright yellow eyes! And the distinctive calls :)&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Currawong Games Brand Guidelines</title>
+    <link href="https://www.currawong.games/brand/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/brand/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Brand Guidelines&lt;/h1&gt;&lt;p&gt;If you&#39;re using the Currawong Games brand, please give us a shout at &lt;a href=&quot;mailto:hello@currawong.games&quot;&gt;hello@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;h2&gt;Logo&lt;/h2&gt;&lt;figure&gt;&lt;a href=&quot;/assets/logo-7925efc5.svg&quot; download=&quot;currawong-games-logo.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Logo: &lt;i&gt;A stylised Pied Currawong (a type of Australian bird) with black feathers and white tips. It has a distinctive yellow eye. Curled to make the shape of &quot;C&quot; and &quot;G&quot; (Currawong Games).&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Icon&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/icon-4bc762b8.svg&quot; download=&quot;currawong-games-icon.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Icon: &lt;i&gt;Logo on yellow background for favicon and app icons.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Domain Mark&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-d315dae7.svg&quot; download=&quot;currawong-games-domain.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name: &lt;i&gt;&quot;currawong.games&quot; in Monaspace Xenon font. Dark text with a light outline and &quot;.&quot; in yellow inspired by the Currawong&#39;s eye.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-light-d23351e6.svg&quot; download=&quot;currawong-games-domain-light.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name (light): for light background.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Colours&lt;/h2&gt;&lt;table style=&quot;border-collapse:collapse&quot;&gt;&lt;caption&gt;Colour Palette (Currawong feathers and eyes)&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Colour&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;50&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;100&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;200&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;300&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;400&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;500&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;600&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;700&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;800&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;900&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;950&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Currawong&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Yellow&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Typography&lt;/h2&gt;&lt;p&gt;Font: &lt;abbr title=&quot;To Be Determined&quot;&gt;TBD&lt;/abbr&gt;&lt;/p&gt;&lt;p&gt;This website uses &lt;code&gt;system-ui&lt;/code&gt; for typography, respecting the visitor&#39;s system preferences.&lt;/p&gt;&lt;p&gt;Our &quot;currawong.games&quot; domain mark uses &lt;a href=&quot;https://monaspace.githubnext.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Monaspace Xenon&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>About Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/about/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/about/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;About Currawong Games Interactive&lt;/h1&gt;&lt;/section&gt;&lt;div class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;We want people to play a Currawong game and immediately want to tell someone about it.&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Story&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;Currawong Games Interactive is a father-son indie game studio based in &lt;a href=&quot;/upper-caboolture/&quot;&gt;Upper Caboolture, Queensland&lt;/a&gt;. We develop story-driven and family-friendly games, interactive narrative experiences, and creator tools — with an Australian flavour. We empower creatives through community participation, tools and transparency.&lt;/p&gt;&lt;p&gt;We offer story-rich, fairly priced games designed for players who value narrative depth and experiences worth sharing with the people they love.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Casual players looking for relaxed or story-driven games.&lt;/li&gt;&lt;li&gt;Parents and families sharing games/experiences.&lt;/li&gt;&lt;li&gt;Fans looking for rich franchises to become engrossed in.&lt;/li&gt;&lt;li&gt;Aspiring game developers, artists, creators with similar passions.&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Goals&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;To build a sustainable creative practice that supports our family, advances the craft of interactive storytelling, and gives back to the broader creative community — putting &lt;a href=&quot;/upper-caboolture/&quot;&gt;Caboolture&lt;/a&gt; on the map along the way.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Currawong Games Brand Guidelines</title>
+    <link href="https://www.currawong.games/brand/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/brand/#a577b5c5c367af26503cd05c0e83a8b36d99c715</id>
+    <updated>2026-03-31T14:46:44.000Z</updated>
+    <summary type="html">Currawong Games — indie games studio.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Brand Guidelines&lt;/h1&gt;&lt;p&gt;If you&#39;re using the Currawong Games brand, please give us a shout at &lt;a href=&quot;mailto:hello@currawong.games&quot;&gt;hello@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;h2&gt;Logo&lt;/h2&gt;&lt;figure&gt;&lt;a href=&quot;/assets/logo-7925efc5.svg&quot; download=&quot;currawong-games-logo.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Logo: &lt;i&gt;A stylised Pied Currawong (a type of Australian bird) with black feathers and white tips. It has a distinctive yellow eye. Curled to make the shape of &quot;C&quot; and &quot;G&quot; (Currawong Games).&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Icon&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/icon-4bc762b8.svg&quot; download=&quot;currawong-games-icon.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 h-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-32 h-32 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-16 h-16 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-8 h-8 p-2 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/icon-4bc762b8.svg&quot; class=&quot;w-full h-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Currawong Games Icon: &lt;i&gt;Logo on yellow background for favicon and app icons.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Domain Mark&lt;/h3&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-d315dae7.svg&quot; download=&quot;currawong-games-domain.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-d315dae7.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name: &lt;i&gt;&quot;currawong.games&quot; in Monaspace Xenon font. Dark text with a light outline and &quot;.&quot; in yellow inspired by the Currawong&#39;s eye.&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;a href=&quot;/assets/domain-light-d23351e6.svg&quot; download=&quot;currawong-games-domain-light.svg&quot; class=&quot;flex flex-row flex-wrap gap-8 items-center&quot;&gt;&lt;div class=&quot;w-128 p-8 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; loading=&quot;eager&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;w-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/domain-light-d23351e6.svg&quot; class=&quot;w-full&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class=&quot;mx-auto max-w-xl&quot;&gt;Domain Name (light): for light background.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Colours&lt;/h2&gt;&lt;table style=&quot;border-collapse:collapse&quot;&gt;&lt;caption&gt;Colour Palette (Currawong feathers and eyes)&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Colour&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;50&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;100&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;200&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;300&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;400&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;500&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;600&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;700&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;800&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;900&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;950&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Currawong&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-currawong-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Yellow&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-50&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-100&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-200&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-300&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-400&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-500&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-600&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-700&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-800&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-900&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;div class=&quot;bg-yellow-950&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Typography&lt;/h2&gt;&lt;p&gt;Font: &lt;abbr title=&quot;To Be Determined&quot;&gt;TBD&lt;/abbr&gt;&lt;/p&gt;&lt;p&gt;This website uses &lt;code&gt;system-ui&lt;/code&gt; for typography, respecting the visitor&#39;s system preferences.&lt;/p&gt;&lt;p&gt;Our &quot;currawong.games&quot; domain mark uses &lt;a href=&quot;https://monaspace.githubnext.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Monaspace Xenon&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games</title>
-    <link href="https://www.currawong.games/src/src/index.html" rel="alternate" type="text/html" />
-    <id>https://www.currawong.games/src/src/index.html#d6caf98503a3f949b4b1bd494f5085063864fadf</id>
+    <link href="https://www.currawong.games/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/#d6caf98503a3f949b4b1bd494f5085063864fadf</id>
     <updated>2026-03-31T13:51:28.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&amp;lt;section class=&amp;quot;hero&amp;quot;&amp;gt;
-    &amp;lt;h1&amp;gt;Currawong Games&amp;lt;/h1&amp;gt;
-    &amp;lt;p&amp;gt;Something is coming. Stay tuned.&amp;lt;/p&amp;gt;
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
 
-    &amp;lt;figure class=&amp;quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&amp;quot;&amp;gt;
-      &amp;lt;img src=&amp;quot;/assets/logo.svg&amp;quot; loading=&amp;quot;eager&amp;quot; class=&amp;quot;w-full h-full&amp;quot; alt=&amp;quot;Currawong Games&amp;quot; /&amp;gt;
-    &amp;lt;/figure&amp;gt;
-  &amp;lt;/section&amp;gt;</content>
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games</title>
-    <link href="https://www.currawong.games/src/src/index.html" rel="alternate" type="text/html" />
-    <id>https://www.currawong.games/src/src/index.html#34c9a5772bd84b66edadb253956bee887b8986ff</id>
+    <link href="https://www.currawong.games/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/#34c9a5772bd84b66edadb253956bee887b8986ff</id>
     <updated>2026-03-25T16:26:27.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&amp;lt;section class=&amp;quot;hero&amp;quot;&amp;gt;
-    &amp;lt;h1&amp;gt;Currawong Games&amp;lt;/h1&amp;gt;
-    &amp;lt;p&amp;gt;Something is coming. Stay tuned.&amp;lt;/p&amp;gt;
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
 
-    &amp;lt;figure class=&amp;quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&amp;quot;&amp;gt;
-      &amp;lt;img src=&amp;quot;/assets/logo.svg&amp;quot; loading=&amp;quot;eager&amp;quot; class=&amp;quot;w-full h-full&amp;quot; alt=&amp;quot;Currawong Games&amp;quot; /&amp;gt;
-    &amp;lt;/figure&amp;gt;
-  &amp;lt;/section&amp;gt;</content>
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
 </feed>
