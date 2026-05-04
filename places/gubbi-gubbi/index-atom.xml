@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Gubbi Gubbi</title>
+  <subtitle>Gubbi Gubbi — the Traditional Custodians of the land where Currawong Games Interactive is based.</subtitle>
+  <link href="https://www.currawong.games/places/gubbi-gubbi/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/places/gubbi-gubbi/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-05-04T05:11:17.000Z</updated>
+  <id>https://www.currawong.games/places/gubbi-gubbi/</id>
+  <entry>
+    <title>Gubbi Gubbi</title>
+    <link href="https://www.currawong.games/places/gubbi-gubbi/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/places/gubbi-gubbi/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Gubbi Gubbi — the Traditional Custodians of the land where Currawong Games Interactive is based.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Gubbi Gubbi&lt;/h1&gt;&lt;/section&gt;&lt;figure class=&quot;content&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The Gubbi Gubbi people are the Traditional Custodians of the land located in South East Queensland, located in the Moreton Bay, Sunshine Coast, Noosa, Maryborough and Gympie region. The traditional lands of the Gubbi Gubbi people stretches from the northern banks of the Pine River in the south, to Burrum River in the north near Maryborough and to the Conondale Ranges in the west. Gubbi Gubbi Country includes the areas of Petrie, Redcliffe, Caboolture, Bribie Island, Sunshine Coast and hinterlands, Noosa, Rainbow Beach, Hervey Bay, Maryborough and Gympie. Gubbi Gubbi Country includes beautiful beaches, lakes, rivers, creeks, mountains and rainforests.&lt;/p&gt;&lt;/blockquote&gt;&lt;figcaption&gt;— &lt;a href=&quot;https://gubbigubbidyungungoo.com/&quot; rel=&quot;noopener&quot; title=&quot;Visit the Gubbi Gubbi Dyungungoo Group Inc. website&quot;&gt;Gubbi Gubbi Dyungungoo Group Inc.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
+  </entry>
+</feed>

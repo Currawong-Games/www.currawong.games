@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Projects at Currawong Games Interactive</title>
+  <subtitle>Projects at Currawong Games Interactive</subtitle>
+  <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/projects/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-05-04T05:53:35.000Z</updated>
+  <id>https://www.currawong.games/projects/</id>
+  <entry>
+    <title>Projects at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/#d5e787dbfe0823a8cbba2647dae96bf3aacbed04</id>
+    <updated>2026-05-04T05:53:35.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Projects at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Projects at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+  </entry>
+</feed>
