@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Battleboats by Currawong Games Interactive</title>
+  <subtitle>Projects at Currawong Games Interactive</subtitle>
+  <link href="https://www.currawong.games/src/projects/battleboats/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/src/projects/battleboats/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-05-04T05:11:17.000Z</updated>
+  <id>https://www.currawong.games/src/projects/battleboats/</id>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/src/projects/battleboats/src/projects/battleboats/index.html" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/src/projects/battleboats/src/projects/battleboats/index.html#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Projects at Currawong Games Interactive</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+th, td {
+  text-align: left;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;
+        &lt;h1 class=&quot;small-caps&quot;&gt;Battleboats&lt;/h1&gt;
+
+        &lt;figure&gt;
+          &lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+          &lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      &lt;/section&gt;</content>
+  </entry>
+</feed>

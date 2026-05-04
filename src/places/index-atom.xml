@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Places important to Currawong Games Interactive</title>
+  <subtitle>Updates to Places page</subtitle>
+  <link href="https://www.currawong.games/src/places/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/src/places/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-05-04T05:11:17.000Z</updated>
+  <id>https://www.currawong.games/src/places/</id>
+  <entry>
+    <title>Places important to Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/src/places/src/places/index.html" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/src/places/src/places/index.html#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">feat(atom): add Atom feed generator for site updates</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+th, td {
+  text-align: left;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;
+        &lt;h1&gt;Where we&#39;re from&lt;/h1&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;/places/upper-caboolture/&quot;&gt;Upper Caboolture&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;/places/gubbi-gubbi/&quot;&gt;Gubbi Gubbi Country&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/section&gt;
+
+      &lt;section&gt;
+        &lt;h2&gt;Our Worlds&lt;/h2&gt;
+        &lt;p&gt;Stay tuned …&lt;/p&gt;
+      &lt;/section&gt;
+
+      &lt;!--
+        &lt;section&gt;
+          &lt;h2&gt;We&#39;re fans of&lt;/h2&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;/projects/snezhnaya/&quot;&gt;Snezhnaya&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/section&gt;
+      --&gt;</content>
+  </entry>
+</feed>

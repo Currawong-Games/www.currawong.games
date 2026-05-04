@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>About Currawong Games Interactive</title>
+  <subtitle>Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.</subtitle>
+  <link href="https://www.currawong.games/src/about/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/src/about/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-04-05T05:27:48.000Z</updated>
+  <id>https://www.currawong.games/src/about/</id>
+  <entry>
+    <title>About Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/src/about/src/about/index.html" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/src/about/src/about/index.html#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.</summary>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;
+        &lt;h1&gt;About Currawong Games Interactive&lt;/h1&gt;
+      &lt;/section&gt;
+
+      &lt;section class=&quot;content&quot;&gt;
+        &lt;header&gt;
+          &lt;h2&gt;Our Story&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p&gt;
+          Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.
+          We develop story-driven and family-friendly games, interactive narrative experiences, and creator tools — with an Australian flavour.
+          We build for players who want rich, respectful experiences at honest prices.
+          We empower creatives through community participation, tools and transparency.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+          We offer story-rich, fairly priced games designed for players who value narrative depth, genuine ownership, and experiences worth sharing with the people they love.
+        &lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Casual players looking for relaxed, non-competitive, or story-driven games.&lt;/li&gt;
+          &lt;li&gt;Fans looking for rich franchises to become engrossed in.&lt;/li&gt;
+          &lt;li&gt;Aspiring game developers, artists, creators with similar passions.&lt;/li&gt;
+          &lt;li&gt;Parents/Families sharing games/experiences.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/section&gt;
+
+      &lt;section class=&quot;content&quot;&gt;
+        &lt;header&gt;
+          &lt;h2&gt;Our Goals&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p&gt;
+          To build a sustainable creative practice that supports our family,
+          advances the craft of interactive storytelling, and gives back to the broader creative community —
+          putting &lt;a href=&quot;/upper-caboolture/&quot;&gt;Caboolture&lt;/a&gt; on the map along the way.
+        &lt;/p&gt;
+      &lt;/section&gt;
+
+      Inspiration
+
+      Daniel: I have had a passion to work as an artist making  games as far as I can remember. I remember purchasing for a friend the Borderlands Handsome Collection in a sale for $25- two highly acclaimed games and all their add-ons. That moment has stuck with me and permanently shaped how I view the price of games, that is a feeling I want to reciprocate.
+      Ben: I’ve spent 25 years watching the creative industries become increasingly difficult to sustain a career in — for artists, animators, and developers alike. Approaching 50, with a son whose talent and passion for games is undeniable, the question is: why wait for an industry to make room, when we can build something ourselves? The tools and skills to make professional-quality games are more accessible than ever — the barrier now is time, commitment, and courage, not resources.
+      This business is Ben and Daniel backing each other, and demonstrating quietly that a sustainable creative practice built on craft and honesty is possible. Worst case, they&#39;ll learn something worth sharing.
+
+      Vision:
+
+      A world where great games are within everyone&#39;s reach — affordable, welcoming, and worth sharing. We want players to finish a Currawong game and immediately want to tell someone about it.
+
+      Mission:
+
+      We are a father-son partnership from Caboolture Australia bringing unique games with an Australian twist. We will make stunning, thought-provoking games and art that respect our players and empower other creators.</content>
+  </entry>
+</feed>
