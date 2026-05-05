@@ -12,40 +12,7 @@
     <id>https://www.currawong.games/places/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">feat(atom): add Atom feed generator for site updates</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Where we&#39;re from&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/places/upper-caboolture/&quot;&gt;Upper Caboolture&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/places/gubbi-gubbi/&quot;&gt;Gubbi Gubbi Country&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Our Worlds&lt;/h2&gt;&lt;p&gt;Stay tuned …&lt;/p&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Where we&#39;re from&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/places/upper-caboolture/&quot;&gt;Upper Caboolture&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/places/gubbi-gubbi/&quot;&gt;Gubbi Gubbi Country&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Our Worlds&lt;/h2&gt;&lt;p&gt;Stay tuned …&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Upper Caboolture — Currawong Games Interactive</title>
@@ -53,40 +20,7 @@ thead th {
     <id>https://www.currawong.games/places/upper-caboolture/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Upper Caboolture — Currawong Games Interactive.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Upper Caboolture&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Our studio is in Upper Caboolture, Queensland, Australia. Lots of sunshine and warm weather. &lt;a href=&quot;/currawong/&quot;&gt;Currawongs&lt;/a&gt; are plentiful, as are many other birds. It&#39;s a lovely place and we hope to show you more in our &lt;a href=&quot;/projects/&quot;&gt;games&lt;/a&gt;!&lt;/p&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Upper Caboolture&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Our studio is in Upper Caboolture, Queensland, Australia. Lots of sunshine and warm weather. &lt;a href=&quot;/currawong/&quot;&gt;Currawongs&lt;/a&gt; are plentiful, as are many other birds. It&#39;s a lovely place and we hope to show you more in our &lt;a href=&quot;/projects/&quot;&gt;games&lt;/a&gt;!&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Gubbi Gubbi</title>
@@ -94,39 +28,6 @@ thead th {
     <id>https://www.currawong.games/places/gubbi-gubbi/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Gubbi Gubbi — the Traditional Custodians of the land where Currawong Games Interactive is based.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Gubbi Gubbi&lt;/h1&gt;&lt;/section&gt;&lt;figure class=&quot;content&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The Gubbi Gubbi people are the Traditional Custodians of the land located in South East Queensland, located in the Moreton Bay, Sunshine Coast, Noosa, Maryborough and Gympie region. The traditional lands of the Gubbi Gubbi people stretches from the northern banks of the Pine River in the south, to Burrum River in the north near Maryborough and to the Conondale Ranges in the west. Gubbi Gubbi Country includes the areas of Petrie, Redcliffe, Caboolture, Bribie Island, Sunshine Coast and hinterlands, Noosa, Rainbow Beach, Hervey Bay, Maryborough and Gympie. Gubbi Gubbi Country includes beautiful beaches, lakes, rivers, creeks, mountains and rainforests.&lt;/p&gt;&lt;/blockquote&gt;&lt;figcaption&gt;— &lt;a href=&quot;https://gubbigubbidyungungoo.com/&quot; rel=&quot;noopener&quot; title=&quot;Visit the Gubbi Gubbi Dyungungoo Group Inc. website&quot;&gt;Gubbi Gubbi Dyungungoo Group Inc.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Gubbi Gubbi&lt;/h1&gt;&lt;/section&gt;&lt;figure class=&quot;content&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The Gubbi Gubbi people are the Traditional Custodians of the land located in South East Queensland, located in the Moreton Bay, Sunshine Coast, Noosa, Maryborough and Gympie region. The traditional lands of the Gubbi Gubbi people stretches from the northern banks of the Pine River in the south, to Burrum River in the north near Maryborough and to the Conondale Ranges in the west. Gubbi Gubbi Country includes the areas of Petrie, Redcliffe, Caboolture, Bribie Island, Sunshine Coast and hinterlands, Noosa, Rainbow Beach, Hervey Bay, Maryborough and Gympie. Gubbi Gubbi Country includes beautiful beaches, lakes, rivers, creeks, mountains and rainforests.&lt;/p&gt;&lt;/blockquote&gt;&lt;figcaption&gt;— &lt;a href=&quot;https://gubbigubbidyungungoo.com/&quot; rel=&quot;noopener&quot; title=&quot;Visit the Gubbi Gubbi Dyungungoo Group Inc. website&quot;&gt;Gubbi Gubbi Dyungungoo Group Inc.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
   </entry>
 </feed>

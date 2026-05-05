@@ -94,40 +94,7 @@ thead th {
     <id>https://www.currawong.games/projects/#d5e787dbfe0823a8cbba2647dae96bf3aacbed04</id>
     <updated>2026-05-04T05:53:35.000Z</updated>
     <summary type="html">Projects at Currawong Games Interactive</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Battleboats by Currawong Games Interactive</title>
@@ -176,40 +143,7 @@ thead th {
     <id>https://www.currawong.games/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Support Currawong Games</title>
@@ -217,40 +151,7 @@ thead th {
     <id>https://www.currawong.games/support/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Support Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Customer Support&lt;/h1&gt;&lt;p&gt;Need help? Drop us an email at &lt;a href=&quot;mailto:support@currawong.games&quot;&gt;support@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Support Currawong Games&lt;/h1&gt;&lt;p&gt;Thanks for considering throwing some support our way! Every little bit helps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stay tuned for ways to support us!&lt;/em&gt;&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Customer Support&lt;/h1&gt;&lt;p&gt;Need help? Drop us an email at &lt;a href=&quot;mailto:support@currawong.games&quot;&gt;support@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Support Currawong Games&lt;/h1&gt;&lt;p&gt;Thanks for considering throwing some support our way! Every little bit helps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stay tuned for ways to support us!&lt;/em&gt;&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title>Projects at Currawong Games Interactive</title>
@@ -258,40 +159,7 @@ thead th {
     <id>https://www.currawong.games/projects/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Projects at Currawong Games Interactive</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Battleboats by Currawong Games Interactive</title>
@@ -340,40 +208,7 @@ thead th {
     <id>https://www.currawong.games/places/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">feat(atom): add Atom feed generator for site updates</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Where we&#39;re from&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/places/upper-caboolture/&quot;&gt;Upper Caboolture&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/places/gubbi-gubbi/&quot;&gt;Gubbi Gubbi Country&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Our Worlds&lt;/h2&gt;&lt;p&gt;Stay tuned …&lt;/p&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Where we&#39;re from&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/places/upper-caboolture/&quot;&gt;Upper Caboolture&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/places/gubbi-gubbi/&quot;&gt;Gubbi Gubbi Country&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;Our Worlds&lt;/h2&gt;&lt;p&gt;Stay tuned …&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Upper Caboolture — Currawong Games Interactive</title>
@@ -381,40 +216,7 @@ thead th {
     <id>https://www.currawong.games/places/upper-caboolture/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Upper Caboolture — Currawong Games Interactive.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Upper Caboolture&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Our studio is in Upper Caboolture, Queensland, Australia. Lots of sunshine and warm weather. &lt;a href=&quot;/currawong/&quot;&gt;Currawongs&lt;/a&gt; are plentiful, as are many other birds. It&#39;s a lovely place and we hope to show you more in our &lt;a href=&quot;/projects/&quot;&gt;games&lt;/a&gt;!&lt;/p&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Upper Caboolture&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Our studio is in Upper Caboolture, Queensland, Australia. Lots of sunshine and warm weather. &lt;a href=&quot;/currawong/&quot;&gt;Currawongs&lt;/a&gt; are plentiful, as are many other birds. It&#39;s a lovely place and we hope to show you more in our &lt;a href=&quot;/projects/&quot;&gt;games&lt;/a&gt;!&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Gubbi Gubbi</title>
@@ -422,40 +224,7 @@ thead th {
     <id>https://www.currawong.games/places/gubbi-gubbi/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">Gubbi Gubbi — the Traditional Custodians of the land where Currawong Games Interactive is based.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Gubbi Gubbi&lt;/h1&gt;&lt;/section&gt;&lt;figure class=&quot;content&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The Gubbi Gubbi people are the Traditional Custodians of the land located in South East Queensland, located in the Moreton Bay, Sunshine Coast, Noosa, Maryborough and Gympie region. The traditional lands of the Gubbi Gubbi people stretches from the northern banks of the Pine River in the south, to Burrum River in the north near Maryborough and to the Conondale Ranges in the west. Gubbi Gubbi Country includes the areas of Petrie, Redcliffe, Caboolture, Bribie Island, Sunshine Coast and hinterlands, Noosa, Rainbow Beach, Hervey Bay, Maryborough and Gympie. Gubbi Gubbi Country includes beautiful beaches, lakes, rivers, creeks, mountains and rainforests.&lt;/p&gt;&lt;/blockquote&gt;&lt;figcaption&gt;— &lt;a href=&quot;https://gubbigubbidyungungoo.com/&quot; rel=&quot;noopener&quot; title=&quot;Visit the Gubbi Gubbi Dyungungoo Group Inc. website&quot;&gt;Gubbi Gubbi Dyungungoo Group Inc.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Gubbi Gubbi&lt;/h1&gt;&lt;/section&gt;&lt;figure class=&quot;content&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The Gubbi Gubbi people are the Traditional Custodians of the land located in South East Queensland, located in the Moreton Bay, Sunshine Coast, Noosa, Maryborough and Gympie region. The traditional lands of the Gubbi Gubbi people stretches from the northern banks of the Pine River in the south, to Burrum River in the north near Maryborough and to the Conondale Ranges in the west. Gubbi Gubbi Country includes the areas of Petrie, Redcliffe, Caboolture, Bribie Island, Sunshine Coast and hinterlands, Noosa, Rainbow Beach, Hervey Bay, Maryborough and Gympie. Gubbi Gubbi Country includes beautiful beaches, lakes, rivers, creeks, mountains and rainforests.&lt;/p&gt;&lt;/blockquote&gt;&lt;figcaption&gt;— &lt;a href=&quot;https://gubbigubbidyungungoo.com/&quot; rel=&quot;noopener&quot; title=&quot;Visit the Gubbi Gubbi Dyungungoo Group Inc. website&quot;&gt;Gubbi Gubbi Dyungungoo Group Inc.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
   </entry>
   <entry>
     <title>About Currawongs - Currawong Games Interactive</title>
@@ -463,40 +232,7 @@ thead th {
     <id>https://www.currawong.games/currawong/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
     <updated>2026-05-04T05:11:17.000Z</updated>
     <summary type="html">About Currawongs</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawongs&lt;/h1&gt;&lt;p&gt;Learn about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pied_currawong&quot; target=&quot;_blank&quot;&gt;&lt;cite&gt;Pied Currawong&lt;/cite&gt; bird species on Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;audio src=&quot;/assets/currawong/Pied-Currawong-6409dc7c.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pied-Currawong.ogg&quot;&gt;Rob Geraghty&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img style=&quot;max-height:50dvh&quot; src=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.webp&quot; alt=&quot;Pied Currawong bird&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Strepera_graculina.jpg&quot;&gt;AdaMacey&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Currawongs are fun birds — you&#39;ll often hear them before you see them.&lt;/p&gt;&lt;p&gt;I used to hear Currawongs in Brisbane at dusk, on the walk to the train coming home. Their eerie calls would echo between the buildings. I always wondered what they looked like. It wasn&#39;t until they started flying over while going on walks in my neighbourhood that I got to see them.&lt;/p&gt;&lt;p&gt;They look a little like Magpies — also amazing birds, preferably when not swooping — darker, with those bright yellow eyes! And the distinctive calls :)&lt;/p&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawongs&lt;/h1&gt;&lt;p&gt;Learn about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pied_currawong&quot; target=&quot;_blank&quot;&gt;&lt;cite&gt;Pied Currawong&lt;/cite&gt; bird species on Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;audio src=&quot;/assets/currawong/Pied-Currawong-6409dc7c.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pied-Currawong.ogg&quot;&gt;Rob Geraghty&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img style=&quot;max-height:50dvh&quot; src=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.webp&quot; alt=&quot;Pied Currawong bird&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Strepera_graculina.jpg&quot;&gt;AdaMacey&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Currawongs are fun birds — you&#39;ll often hear them before you see them.&lt;/p&gt;&lt;p&gt;I used to hear Currawongs in Brisbane at dusk, on the walk to the train coming home. Their eerie calls would echo between the buildings. I always wondered what they looked like. It wasn&#39;t until they started flying over while going on walks in my neighbourhood that I got to see them.&lt;/p&gt;&lt;p&gt;They look a little like Magpies — also amazing birds, preferably when not swooping — darker, with those bright yellow eyes! And the distinctive calls :)&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games Brand Guidelines</title>
@@ -586,40 +322,7 @@ thead th {
     <id>https://www.currawong.games/#a95423d32f0743f83804bbb42a89af3e2eccdcc6</id>
     <updated>2026-04-05T16:06:00.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games Brand Guidelines</title>
@@ -668,40 +371,7 @@ thead th {
     <id>https://www.currawong.games/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
     <updated>2026-04-05T05:27:48.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Support Currawong Games</title>
@@ -709,40 +379,7 @@ thead th {
     <id>https://www.currawong.games/support/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
     <updated>2026-04-05T05:27:48.000Z</updated>
     <summary type="html">Support Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Customer Support&lt;/h1&gt;&lt;p&gt;Need help? Drop us an email at &lt;a href=&quot;mailto:support@currawong.games&quot;&gt;support@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Support Currawong Games&lt;/h1&gt;&lt;p&gt;Thanks for considering throwing some support our way! Every little bit helps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stay tuned for ways to support us!&lt;/em&gt;&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Customer Support&lt;/h1&gt;&lt;p&gt;Need help? Drop us an email at &lt;a href=&quot;mailto:support@currawong.games&quot;&gt;support@currawong.games&lt;/a&gt;.&lt;/p&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h1&gt;Support Currawong Games&lt;/h1&gt;&lt;p&gt;Thanks for considering throwing some support our way! Every little bit helps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stay tuned for ways to support us!&lt;/em&gt;&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <title>Projects at Currawong Games Interactive</title>
@@ -750,40 +387,7 @@ thead th {
     <id>https://www.currawong.games/projects/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
     <updated>2026-04-05T05:27:48.000Z</updated>
     <summary type="html">Projects at Currawong Games Interactive</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Games&lt;/h1&gt;&lt;ul class=&quot;cards&quot;&gt;&lt;li&gt;&lt;a class=&quot;card&quot; href=&quot;/projects/battleboats/&quot;&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Battleboats&lt;/figcaption&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>About Currawongs - Currawong Games Interactive</title>
@@ -791,40 +395,7 @@ thead th {
     <id>https://www.currawong.games/currawong/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
     <updated>2026-04-05T05:27:48.000Z</updated>
     <summary type="html">About Currawongs</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawongs&lt;/h1&gt;&lt;p&gt;Learn about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pied_currawong&quot; target=&quot;_blank&quot;&gt;&lt;cite&gt;Pied Currawong&lt;/cite&gt; bird species on Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;audio src=&quot;/assets/currawong/Pied-Currawong-6409dc7c.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pied-Currawong.ogg&quot;&gt;Rob Geraghty&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img style=&quot;max-height:50dvh&quot; src=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.webp&quot; alt=&quot;Pied Currawong bird&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Strepera_graculina.jpg&quot;&gt;AdaMacey&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Currawongs are fun birds — you&#39;ll often hear them before you see them.&lt;/p&gt;&lt;p&gt;I used to hear Currawongs in Brisbane at dusk, on the walk to the train coming home. Their eerie calls would echo between the buildings. I always wondered what they looked like. It wasn&#39;t until they started flying over while going on walks in my neighbourhood that I got to see them.&lt;/p&gt;&lt;p&gt;They look a little like Magpies — also amazing birds, preferably when not swooping — darker, with those bright yellow eyes! And the distinctive calls :)&lt;/p&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawongs&lt;/h1&gt;&lt;p&gt;Learn about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pied_currawong&quot; target=&quot;_blank&quot;&gt;&lt;cite&gt;Pied Currawong&lt;/cite&gt; bird species on Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;audio src=&quot;/assets/currawong/Pied-Currawong-6409dc7c.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pied-Currawong.ogg&quot;&gt;Rob Geraghty&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img style=&quot;max-height:50dvh&quot; src=&quot;/assets/currawong/Strepera_graculina-53d5fdc9.webp&quot; alt=&quot;Pied Currawong bird&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Strepera_graculina.jpg&quot;&gt;AdaMacey&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;p&gt;Currawongs are fun birds — you&#39;ll often hear them before you see them.&lt;/p&gt;&lt;p&gt;I used to hear Currawongs in Brisbane at dusk, on the walk to the train coming home. Their eerie calls would echo between the buildings. I always wondered what they looked like. It wasn&#39;t until they started flying over while going on walks in my neighbourhood that I got to see them.&lt;/p&gt;&lt;p&gt;They look a little like Magpies — also amazing birds, preferably when not swooping — darker, with those bright yellow eyes! And the distinctive calls :)&lt;/p&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games Brand Guidelines</title>
@@ -955,40 +526,7 @@ thead th {
     <id>https://www.currawong.games/#d6caf98503a3f949b4b1bd494f5085063864fadf</id>
     <updated>2026-03-31T13:51:28.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
   <entry>
     <title>Currawong Games</title>
@@ -996,39 +534,6 @@ thead th {
     <id>https://www.currawong.games/#34c9a5772bd84b66edadb253956bee887b8986ff</id>
     <updated>2026-03-25T16:26:27.000Z</updated>
     <summary type="html">Currawong Games — indie games studio.</summary>
-    <content type="html">&lt;style&gt;table {
-  border-collapse: collapse;
-}
-table.fixed {
-  table-layout: fixed;
-}
-th, td {
-  text-align: left;
-  vertical-align: top;
-  font-weight: normal;
-  padding: 1rem 0.5rem;
-}
-table.center th,
-table.center td {
-  text-align: center;
-  vertical-align: middle;
-}
-thead th {
-  border-bottom: 1px solid oklch(55.21% 0 0);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
-.pull-quote {
-  font-size: 2em;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  font-weight: 900;
-}
-&lt;/style&gt;
-&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Currawong Games&lt;/h1&gt;&lt;p&gt;Something is coming. Stay tuned.&lt;/p&gt;&lt;figure class=&quot;w-64 h-64 p-4 rounded-xl bg-currawong-500 select-none&quot;&gt;&lt;img src=&quot;/assets/logo-7925efc5.svg&quot; loading=&quot;eager&quot; class=&quot;w-full h-full&quot; alt=&quot;Currawong Games&quot;&gt;&lt;/figure&gt;&lt;/section&gt;</content>
   </entry>
 </feed>
