@@ -1,0 +1,355 @@
+{
+  "@context": {
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "cgi": "https://currawong.games/ns#",
+    "tod": "https://currawong.games/vocab/time-of-day#",
+    "title": {
+      "@id": "dc:title"
+    },
+    "identifier": {
+      "@id": "dc:identifier"
+    },
+    "description": {
+      "@id": "dct:description"
+    },
+    "creator": {
+      "@id": "dct:creator",
+      "@type": "@id"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@type": "@id"
+    },
+    "hasTopConcept": {
+      "@id": "skos:hasTopConcept",
+      "@type": "@id"
+    },
+    "topConceptOf": {
+      "@id": "skos:topConceptOf",
+      "@type": "@id"
+    },
+    "inScheme": {
+      "@id": "skos:inScheme",
+      "@type": "@id"
+    },
+    "broader": {
+      "@id": "skos:broader",
+      "@type": "@id"
+    },
+    "narrower": {
+      "@id": "skos:narrower",
+      "@type": "@id"
+    },
+    "prefLabel": {
+      "@id": "skos:prefLabel",
+      "@language": "en"
+    },
+    "definition": {
+      "@id": "skos:definition",
+      "@language": "en"
+    },
+    "scopeNote": {
+      "@id": "skos:scopeNote",
+      "@language": "en"
+    },
+    "rangeMin": {
+      "@id": "cgi:rangeMin",
+      "@type": "xsd:decimal"
+    },
+    "rangeMax": {
+      "@id": "cgi:rangeMax",
+      "@type": "xsd:decimal"
+    }
+  },
+  "@graph": [
+    {
+      "@id": "https://currawong.games/vocab/time-of-day",
+      "@type": "skos:ConceptScheme",
+      "identifier": "time-of-day",
+      "title": "Time of Day",
+      "description": "A vocabulary of named periods in the daily light cycle, ordered by artistic and narrative significance rather than clock time.\n\nValues are floating-point numbers in the range [1, 20). The integer part identifies the concept via range lookup; the fractional part expresses relative position within that concept — useful for lighting interpolation, threshold proximity signals, and fine-grained ordering.\n\nFour top-level concepts provide coarse containers: Daytime, Gloaming, Night-time, and Gleaming. Daytime and Night-time are stable-light periods; Gloaming (day-to-night transition) and Gleaming (night-to-day transition) are liminal periods of changing light. Gloaming and Gleaming are named as deliberate siblings — both are defined by light in transition rather than light at rest, in the same way that equinoxes are siblings distinct from solstices.\n\nThe scale reflects the concentration of human narrative activity: transition periods (Gloaming, Gleaming) carry more concept density than stable periods (Daytime, Night-time), corresponding to the higher rate of change in light quality and the greater cinematographic and dramatic interest of those hours.\n\nThis vocabulary expresses artistic intent, not clock time. A scene tagged Early Morning intends the quality and feel of that light; the corresponding clock time or solar angle may be derived from location and date where needed, but is not stored here. The fractional part may be used to drive lighting parameter interpolation (e.g. colour temperature in Kelvin) in real-time rendering contexts.",
+      "creator": "https://currawong.games",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "hasTopConcept": [
+        "tod:daytime",
+        "tod:gloaming",
+        "tod:night-time",
+        "tod:gleaming"
+      ]
+    },
+    {
+      "@id": "tod:daytime",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "topConceptOf": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Daytime",
+      "definition": "The stable daylight period. Use when time of day is unspecified but daylight is intended, without committing to morning, noon, or afternoon.",
+      "scopeNote": "Broad container concept. Prefer a narrower concept (Morning, Day, Noon, Afternoon) when the specific quality of light matters.",
+      "rangeMin": 0.5,
+      "rangeMax": 6.5,
+      "narrower": [
+        "tod:early-morning",
+        "tod:morning",
+        "tod:day",
+        "tod:noon",
+        "tod:afternoon",
+        "tod:late-afternoon"
+      ]
+    },
+    {
+      "@id": "tod:early-morning",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Early Morning",
+      "definition": "The opening of the day — cool, low-angle light, long shadows, the world just waking. Distinct from established Morning in quality and feel.",
+      "scopeNote": "Sibling to Morning [2,3). Use Early Morning when the specific quality of the first daylight hours is narratively significant, as in a scene set at first activity of the day.",
+      "broader": "tod:daytime",
+      "rangeMin": 0.5,
+      "rangeMax": 1.5
+    },
+    {
+      "@id": "tod:morning",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Morning",
+      "definition": "Established morning light. The day is underway — warm, directional light, the world active.",
+      "scopeNote": "Distinct from Early Morning [1,2). Use Morning when the specific quality of early dawn light is not intended.",
+      "broader": "tod:daytime",
+      "rangeMin": 1.5,
+      "rangeMax": 2.5
+    },
+    {
+      "@id": "tod:day",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Day",
+      "definition": "Generic daylight. Neither morning nor afternoon — the broad middle of the day. Use when daylight is intended but the specific period is not narratively significant.",
+      "scopeNote": "The leaf concept for generic daytime, distinct from the Daytime container which spans the entire daylight period [0.5,6.5).",
+      "broader": "tod:daytime",
+      "rangeMin": 2.5,
+      "rangeMax": 3.5
+    },
+    {
+      "@id": "tod:noon",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Noon",
+      "definition": "The peak of the day. Overhead light, minimal shadow, maximum brightness. Harsh and flat — cinematographically the least interesting daylight quality.",
+      "broader": "tod:daytime",
+      "rangeMin": 3.5,
+      "rangeMax": 4.5
+    },
+    {
+      "@id": "tod:afternoon",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Afternoon",
+      "definition": "The latter part of the day before evening. Light begins to warm and angle, shadows lengthen. The day winding toward its close.",
+      "scopeNote": "Distinct from Late Afternoon [6,7). Use Afternoon when the specific quality of the golden pre-evening light is not intended.",
+      "broader": "tod:daytime",
+      "rangeMin": 4.5,
+      "rangeMax": 5.5
+    },
+    {
+      "@id": "tod:late-afternoon",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Late Afternoon",
+      "definition": "The warm, golden hours before evening — long shadows, directional amber light, the day drawing toward its close. The lead-in to Gloaming.",
+      "scopeNote": "Sibling to Afternoon [5,6). Use Late Afternoon when the specific quality of the pre-evening light is narratively significant.",
+      "broader": "tod:daytime",
+      "rangeMin": 5.5,
+      "rangeMax": 6.5
+    },
+    {
+      "@id": "tod:gloaming",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "topConceptOf": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Gloaming",
+      "definition": "The day-to-night transitional period — from the end of afternoon through to full darkness. Named for the Old English term for fading light. The period of highest cinematographic and dramatic interest in the light cycle.",
+      "scopeNote": "Sibling to Gleaming (the night-to-day transition). Both are defined by light in transition. Gloaming carries slightly more concept density than Gleaming, reflecting the concentration of human narrative activity in the evening hours.",
+      "rangeMin": 6.5,
+      "rangeMax": 12.5,
+      "narrower": [
+        "tod:evening",
+        "tod:magic-hour",
+        "tod:sunset",
+        "tod:dusk",
+        "tod:twilight",
+        "tod:nightfall"
+      ]
+    },
+    {
+      "@id": "tod:evening",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Evening",
+      "definition": "The warm social hours before sunset. Long shadows, golden-warm light, the day's activity drawing to a close. The lead-in to the golden hour.",
+      "broader": "tod:gloaming",
+      "rangeMin": 6.5,
+      "rangeMax": 7.5
+    },
+    {
+      "@id": "tod:magic-hour",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Magic Hour",
+      "definition": "The brief period of diffused, golden light shortly before sunset. A cinematography term for the most sought-after natural light quality — warm, directional, and fleeting.",
+      "scopeNote": "Also occurs briefly after sunrise, but is most commonly referenced in the pre-sunset context. For the dawn equivalent, see Sunrise [15, 16).",
+      "broader": "tod:gloaming",
+      "rangeMin": 7.5,
+      "rangeMax": 8.5
+    },
+    {
+      "@id": "tod:sunset",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Sunset",
+      "definition": "The moment and immediate period of the sun crossing the horizon at day's end. Warm amber and red tones, high drama, rapidly changing light.",
+      "broader": "tod:gloaming",
+      "rangeMin": 8.5,
+      "rangeMax": 9.5
+    },
+    {
+      "@id": "tod:dusk",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Dusk",
+      "definition": "The period after sunset when the sky is still lit but the sun is below the horizon. Colours shift from warm to cool — purples, blues, the last glow at the horizon.",
+      "broader": "tod:gloaming",
+      "rangeMin": 9.5,
+      "rangeMax": 10.5
+    },
+    {
+      "@id": "tod:twilight",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Twilight",
+      "definition": "The final stage of transitional light after dusk. The sky darkens from deep blue toward black, the last colour fading. Stars become visible.",
+      "broader": "tod:gloaming",
+      "rangeMin": 10.5,
+      "rangeMax": 11.5
+    },
+    {
+      "@id": "tod:nightfall",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Nightfall",
+      "definition": "The arrival of darkness — the moment and period when night establishes itself. The close of the Gloaming transition.",
+      "scopeNote": "Nightfall is the final concept of Gloaming, not the first concept of Night. It marks the end of transition rather than the beginning of stable darkness.",
+      "broader": "tod:gloaming",
+      "rangeMin": 11.5,
+      "rangeMax": 12.5
+    },
+    {
+      "@id": "tod:night-time",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "topConceptOf": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Night-time",
+      "definition": "The stable dark period. Use when time of night is unspecified but darkness is intended, without committing to a particular phase of the night.",
+      "scopeNote": "Broad container concept. Mirrors Daytime as the stable-dark counterpart to stable-light. Prefer a narrower concept (Night, Midnight, Small Hours) when the specific phase matters.",
+      "rangeMin": 12.5,
+      "rangeMax": 15.5,
+      "narrower": [
+        "tod:night",
+        "tod:midnight",
+        "tod:small-hours"
+      ]
+    },
+    {
+      "@id": "tod:night",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Night",
+      "definition": "Generic night. The hours of darkness after nightfall and before the small hours — the early-to-mid night. Use when darkness is intended but the specific phase is not narratively significant.",
+      "scopeNote": "The leaf concept for generic night-time, distinct from the Night-time container which spans the entire dark period [12.5,15.5).",
+      "broader": "tod:night-time",
+      "rangeMin": 12.5,
+      "rangeMax": 13.5
+    },
+    {
+      "@id": "tod:midnight",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Midnight",
+      "definition": "The middle of the night. Peak darkness, the day's turning point. Narratively significant — a threshold moment.",
+      "broader": "tod:night-time",
+      "rangeMin": 13.5,
+      "rangeMax": 14.5
+    },
+    {
+      "@id": "tod:small-hours",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Small Hours",
+      "definition": "The hours after midnight and before pre-dawn — roughly 1am to 4am. The time of insomnia, solitude, and the lowest ebb of human activity. Named for the small numbers on the clock face.",
+      "broader": "tod:night-time",
+      "rangeMin": 14.5,
+      "rangeMax": 15.5
+    },
+    {
+      "@id": "tod:gleaming",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "topConceptOf": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Gleaming",
+      "definition": "The night-to-day transitional period — from the end of the small hours through to the establishment of morning. Named as a deliberate parallel to Gloaming, its dusk counterpart. Both are defined by light in transition; both are liminal periods of higher creative significance than the stable periods they adjoin.",
+      "scopeNote": "Gloaming and Gleaming are siblings in the same way equinoxes are siblings — transitional, balanced, more alike each other than either is to Day or Night.",
+      "rangeMin": 15.5,
+      "rangeMax": 19.5,
+      "narrower": [
+        "tod:pre-dawn",
+        "tod:daybreak",
+        "tod:sunrise",
+        "tod:dawn"
+      ]
+    },
+    {
+      "@id": "tod:pre-dawn",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Pre-dawn",
+      "definition": "The opening of the Gleaming transition. Night is fading but no light is yet visible — the darkness has thinned. The first intimation of the coming day.",
+      "scopeNote": "Pre-dawn is the first concept of Gleaming, mirroring Nightfall as the last concept of Gloaming.",
+      "broader": "tod:gleaming",
+      "rangeMin": 15.5,
+      "rangeMax": 16.5
+    },
+    {
+      "@id": "tod:daybreak",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Daybreak",
+      "definition": "The first visible light on the horizon. Night breaks — the sky begins to lighten from black toward deep blue. The counterpart to Nightfall.",
+      "broader": "tod:gleaming",
+      "rangeMin": 16.5,
+      "rangeMax": 17.5
+    },
+    {
+      "@id": "tod:sunrise",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Sunrise",
+      "definition": "The moment and immediate period of the sun crossing the horizon at day's beginning. The counterpart to Sunset — warm tones, rapidly changing light, the world waking.",
+      "broader": "tod:gleaming",
+      "rangeMin": 17.5,
+      "rangeMax": 18.5
+    },
+    {
+      "@id": "tod:dawn",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/time-of-day",
+      "prefLabel": "Dawn",
+      "definition": "The close of the Gleaming transition — light is established, the sky is bright, the sun is up but still low. Dawn bridges into Morning as the day begins in earnest.",
+      "scopeNote": "Dawn closes the Gleaming transition as Morning opens the Day period. A value of 19.4 is on the threshold of Morning.",
+      "broader": "tod:gleaming",
+      "rangeMin": 18.5,
+      "rangeMax": 19.5
+    }
+  ]
+}

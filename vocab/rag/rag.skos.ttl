@@ -1,0 +1,41 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix cgi: <https://currawong.games/ns#>.
+@prefix rag: <https://currawong.games/vocab/rag#>.
+
+rag:amber a skos:Concept;
+    skos:definition "Approaching tolerance boundary. Early warning. Monitor closely and consider action."@en;
+    skos:inScheme <https://currawong.games/vocab/rag>;
+    skos:notation "A";
+    skos:prefLabel "Amber"@en;
+    skos:scopeNote "Fractional values approaching 2.5 indicate drift toward red; values approaching 1.5 indicate drift toward green."@en;
+    skos:topConceptOf <https://currawong.games/vocab/rag>;
+    cgi:rangeMax "2.5E0"^^xsd:decimal;
+    cgi:rangeMin "1.5E0"^^xsd:decimal.
+<https://currawong.games/vocab/rag> a skos:ConceptScheme;
+    dc:identifier "rag";
+    dc:title "RAG Status";
+    dct:creator <https://currawong.games>;
+    dct:description "A three-value ordinal scale — Red, Amber, Green — used as a traffic-light signal for condition, tolerance, or risk level. The colours are intrinsic to the concept identifiers: red means stop/intervene, amber means caution/monitor, green means proceed/within tolerance.\n\nValues are floating-point numbers. The integer part identifies the concept via range lookup. The fractional part expresses relative position within that concept — proximity to a boundary may be used to signal threshold drift, but the interpretation of position is intentionally left to the consuming application.\n\nThis is an abstract base vocabulary. Domain-specific schemes (e.g. cgi:Outlook) use skos:exactMatch to map their concepts onto these three values.";
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    skos:hasTopConcept rag:amber, rag:green, rag:red.
+rag:green a skos:Concept;
+    skos:definition "Within tolerance. No intervention required. Continue monitoring."@en;
+    skos:inScheme <https://currawong.games/vocab/rag>;
+    skos:notation "G";
+    skos:prefLabel "Green"@en;
+    skos:scopeNote "Fractional values approaching 1.5 indicate drift toward the amber boundary."@en;
+    skos:topConceptOf <https://currawong.games/vocab/rag>;
+    cgi:rangeMax "1.5E0"^^xsd:decimal;
+    cgi:rangeMin "5.0E-1"^^xsd:decimal.
+rag:red a skos:Concept;
+    skos:definition "Outside tolerance or requires immediate intervention."@en;
+    skos:inScheme <https://currawong.games/vocab/rag>;
+    skos:notation "R";
+    skos:prefLabel "Red"@en;
+    skos:scopeNote "Fractional values approaching 2.5 indicate drift toward the amber boundary."@en;
+    skos:topConceptOf <https://currawong.games/vocab/rag>;
+    cgi:rangeMax "3.5E0"^^xsd:decimal;
+    cgi:rangeMin "2.5E0"^^xsd:decimal.

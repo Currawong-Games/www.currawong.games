@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "cgi": "https://currawong.games/ns#"
+  },
+  "@graph": [
+    {
+      "@id": "https://currawong.games/ns",
+      "@type": "owl:Ontology",
+      "dc:title": "Currawong Games Interactive — Property Namespace",
+      "dct:description": "Defines properties and types used in CGI's published vocabularies and data formats. Concept schemes and controlled vocabularies are published separately under /vocab/.",
+      "dct:creator": {
+        "@id": "https://currawong.games"
+      },
+      "dct:license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "cgi:rangeMin",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:label": "Range minimum",
+      "rdfs:comment": "Inclusive lower bound [rangeMin, rangeMax) for float-value range lookup against a concept.",
+      "rdfs:domain": {
+        "@id": "skos:Concept"
+      },
+      "rdfs:range": {
+        "@id": "xsd:decimal"
+      },
+      "rdfs:isDefinedBy": {
+        "@id": "https://currawong.games/ns"
+      }
+    },
+    {
+      "@id": "cgi:rangeMax",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:label": "Range maximum",
+      "rdfs:comment": "Exclusive upper bound [rangeMin, rangeMax) for float-value range lookup against a concept.",
+      "rdfs:domain": {
+        "@id": "skos:Concept"
+      },
+      "rdfs:range": {
+        "@id": "xsd:decimal"
+      },
+      "rdfs:isDefinedBy": {
+        "@id": "https://currawong.games/ns"
+      }
+    },
+    {
+      "@id": "cgi:outlook",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:range": {
+        "@id": "xsd:decimal"
+      },
+      "rdfs:comment": "Forward-looking trajectory signal expressing whether a node is on track, at risk, or off track relative to plan. Applies to any node participating in health rollup: tasks, assets, epics, projects, or products. Values are drawn from the Outlook vocabulary (https://currawong.games/vocab/outlook).",
+      "rdfs:isDefinedBy": {
+        "@id": "https://currawong.games/ns"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "@context": {
+    "skos":    "http://www.w3.org/2004/02/skos/core#",
+    "dc":      "http://purl.org/dc/elements/1.1/",
+    "dct":     "http://purl.org/dc/terms/",
+    "xsd":     "http://www.w3.org/2001/XMLSchema#",
+
+    "cgi":     "https://currawong.games/ns#",
+    "rag":     "https://currawong.games/vocab/rag#",
+
+    "title":         { "@id": "dc:title" },
+    "identifier":    { "@id": "dc:identifier" },
+    "description":   { "@id": "dct:description" },
+    "creator":       { "@id": "dct:creator", "@type": "@id" },
+    "license":       { "@id": "dct:license", "@type": "@id" },
+    "hasTopConcept": { "@id": "skos:hasTopConcept", "@type": "@id" },
+    "inScheme":      { "@id": "skos:inScheme", "@type": "@id" },
+    "topConceptOf":  { "@id": "skos:topConceptOf", "@type": "@id" },
+    "prefLabel":     { "@id": "skos:prefLabel", "@language": "en" },
+    "definition":    { "@id": "skos:definition", "@language": "en" },
+    "scopeNote":     { "@id": "skos:scopeNote", "@language": "en" },
+    "notation":      { "@id": "skos:notation" },
+
+    "rangeMin":      { "@id": "cgi:rangeMin", "@type": "xsd:decimal" },
+    "rangeMax":      { "@id": "cgi:rangeMax", "@type": "xsd:decimal" }
+  },
+  "@graph": [
+    {
+      "@id": "https://currawong.games/vocab/rag",
+      "@type": "skos:ConceptScheme",
+      "identifier": "rag",
+      "title": "RAG Status",
+      "description": "A three-value ordinal scale — Red, Amber, Green — used as a traffic-light signal for condition, tolerance, or risk level. The colours are intrinsic to the concept identifiers: red means stop/intervene, amber means caution/monitor, green means proceed/within tolerance.\n\nValues are floating-point numbers. The integer part identifies the concept via range lookup. The fractional part expresses relative position within that concept — proximity to a boundary may be used to signal threshold drift, but the interpretation of position is intentionally left to the consuming application.\n\nThis is an abstract base vocabulary. Domain-specific schemes (e.g. cgi:Outlook) use skos:exactMatch to map their concepts onto these three values.",
+      "creator": "https://currawong.games",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "hasTopConcept": [
+        "rag:red",
+        "rag:amber",
+        "rag:green"
+      ]
+    },
+    {
+      "@id": "rag:red",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/rag",
+      "topConceptOf": "https://currawong.games/vocab/rag",
+      "prefLabel": "Red",
+      "notation": "R",
+      "definition": "Outside tolerance or requires immediate intervention.",
+      "scopeNote": "Fractional values approaching 2.5 indicate drift toward the amber boundary.",
+      "rangeMin": 2.5,
+      "rangeMax": 3.5
+    },
+    {
+      "@id": "rag:amber",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/rag",
+      "topConceptOf": "https://currawong.games/vocab/rag",
+      "prefLabel": "Amber",
+      "notation": "A",
+      "definition": "Approaching tolerance boundary. Early warning. Monitor closely and consider action.",
+      "scopeNote": "Fractional values approaching 2.5 indicate drift toward red; values approaching 1.5 indicate drift toward green.",
+      "rangeMin": 1.5,
+      "rangeMax": 2.5
+    },
+    {
+      "@id": "rag:green",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/rag",
+      "topConceptOf": "https://currawong.games/vocab/rag",
+      "prefLabel": "Green",
+      "notation": "G",
+      "definition": "Within tolerance. No intervention required. Continue monitoring.",
+      "scopeNote": "Fractional values approaching 1.5 indicate drift toward the amber boundary.",
+      "rangeMin": 0.5,
+      "rangeMax": 1.5
+    }
+  ]
+}

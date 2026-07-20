@@ -1,0 +1,42 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix cgi: <https://currawong.games/ns#>.
+@prefix rag: <https://currawong.games/vocab/rag#>.
+@prefix outlook: <https://currawong.games/vocab/outlook#>.
+
+outlook:at-risk a skos:Concept;
+    skos:definition "Trajectory is approaching tolerance boundary. Early warning — monitor closely and consider corrective action."@en;
+    skos:exactMatch rag:amber;
+    skos:inScheme <https://currawong.games/vocab/outlook>;
+    skos:prefLabel "At Risk"@en;
+    skos:scopeNote "Fractional values approaching 3.0 indicate drift toward off-track; values approaching 1.0 indicate drift toward on-track."@en;
+    skos:topConceptOf <https://currawong.games/vocab/outlook>;
+    cgi:rangeMax "2.5E0"^^xsd:decimal;
+    cgi:rangeMin "1.5E0"^^xsd:decimal.
+<https://currawong.games/vocab/outlook> a skos:ConceptScheme;
+    dc:identifier "outlook";
+    dc:title "Outlook";
+    dct:creator <https://currawong.games>;
+    dct:description "A three-value scale expressing trajectory relative to plan, applied to any node that participates in health rollup: tasks, assets, epics, projects, or products.\n\nOutlook is a forward-looking signal — not a point-in-time status (see cgi:Status for workflow state), but an assessment of whether the current trajectory will land within acceptable tolerances.\n\nValues are floating-point numbers. The integer part identifies the concept via range lookup. The fractional part expresses relative position within that concept — typically proximity to a threshold boundary, suggesting drift toward the adjacent concept. Interpretation of the fractional part is intentionally left to the consuming application.\n\nConcepts map exactly onto the RAG base vocabulary (https://currawong.games/vocab/rag) via skos:exactMatch.";
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    skos:hasTopConcept outlook:at-risk, outlook:off-track, outlook:on-track.
+outlook:off-track a skos:Concept;
+    skos:definition "Trajectory is outside tolerance or requires immediate intervention."@en;
+    skos:exactMatch rag:red;
+    skos:inScheme <https://currawong.games/vocab/outlook>;
+    skos:prefLabel "Off Track"@en;
+    skos:scopeNote "Fractional values approaching 1.0 indicate drift toward the at-risk boundary."@en;
+    skos:topConceptOf <https://currawong.games/vocab/outlook>;
+    cgi:rangeMax "3.5E0"^^xsd:decimal;
+    cgi:rangeMin "2.5E0"^^xsd:decimal.
+outlook:on-track a skos:Concept;
+    skos:definition "Trajectory is within tolerance. No intervention required."@en;
+    skos:exactMatch rag:green;
+    skos:inScheme <https://currawong.games/vocab/outlook>;
+    skos:prefLabel "On Track"@en;
+    skos:scopeNote "Fractional values approaching 2.0 indicate drift toward the at-risk boundary."@en;
+    skos:topConceptOf <https://currawong.games/vocab/outlook>;
+    cgi:rangeMax "1.5E0"^^xsd:decimal;
+    cgi:rangeMin "5.0E-1"^^xsd:decimal.

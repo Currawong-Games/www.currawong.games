@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix cgi: <https://currawong.games/ns#>.
+
+cgi:outlook a owl:DatatypeProperty;
+    rdfs:comment "Forward-looking trajectory signal expressing whether a node is on track, at risk, or off track relative to plan. Applies to any node participating in health rollup: tasks, assets, epics, projects, or products. Values are drawn from the Outlook vocabulary (https://currawong.games/vocab/outlook).";
+    rdfs:isDefinedBy <https://currawong.games/ns>;
+    rdfs:range xsd:decimal.
+<https://currawong.games/ns> a owl:Ontology;
+    dc:title "Currawong Games Interactive — Property Namespace";
+    dct:creator <https://currawong.games>;
+    dct:description "Defines properties and types used in CGI's published vocabularies and data formats. Concept schemes and controlled vocabularies are published separately under /vocab/.";
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>.
+cgi:rangeMax a owl:DatatypeProperty;
+    rdfs:comment "Exclusive upper bound [rangeMin, rangeMax) for float-value range lookup against a concept.";
+    rdfs:isDefinedBy <https://currawong.games/ns>;
+    rdfs:range xsd:decimal;
+    rdfs:domain <skos:Concept>;
+    rdfs:label "Range maximum".
+cgi:rangeMin a owl:DatatypeProperty;
+    rdfs:comment "Inclusive lower bound [rangeMin, rangeMax) for float-value range lookup against a concept.";
+    rdfs:isDefinedBy <https://currawong.games/ns>;
+    rdfs:range xsd:decimal;
+    rdfs:domain <skos:Concept>;
+    rdfs:label "Range minimum".

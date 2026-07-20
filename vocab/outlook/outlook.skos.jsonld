@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "skos":    "http://www.w3.org/2004/02/skos/core#",
+    "dc":      "http://purl.org/dc/elements/1.1/",
+    "dct":     "http://purl.org/dc/terms/",
+    "xsd":     "http://www.w3.org/2001/XMLSchema#",
+
+    "cgi":     "https://currawong.games/ns#",
+    "rag":     "https://currawong.games/vocab/rag#",
+    "outlook": "https://currawong.games/vocab/outlook#",
+
+    "title":         { "@id": "dc:title" },
+    "identifier":    { "@id": "dc:identifier" },
+    "description":   { "@id": "dct:description" },
+    "creator":       { "@id": "dct:creator", "@type": "@id" },
+    "license":       { "@id": "dct:license", "@type": "@id" },
+    "hasTopConcept": { "@id": "skos:hasTopConcept", "@type": "@id" },
+    "inScheme":      { "@id": "skos:inScheme", "@type": "@id" },
+    "topConceptOf":  { "@id": "skos:topConceptOf", "@type": "@id" },
+    "prefLabel":     { "@id": "skos:prefLabel", "@language": "en" },
+    "definition":    { "@id": "skos:definition", "@language": "en" },
+    "scopeNote":     { "@id": "skos:scopeNote", "@language": "en" },
+    "exactMatch":    { "@id": "skos:exactMatch", "@type": "@id" },
+
+    "rangeMin":      { "@id": "cgi:rangeMin", "@type": "xsd:decimal" },
+    "rangeMax":      { "@id": "cgi:rangeMax", "@type": "xsd:decimal" }
+  },
+  "@graph": [
+    {
+      "@id": "https://currawong.games/vocab/outlook",
+      "@type": "skos:ConceptScheme",
+      "identifier": "outlook",
+      "title": "Outlook",
+      "description": "A three-value scale expressing trajectory relative to plan, applied to any node that participates in health rollup: tasks, assets, epics, projects, or products.\n\nOutlook is a forward-looking signal — not a point-in-time status (see cgi:Status for workflow state), but an assessment of whether the current trajectory will land within acceptable tolerances.\n\nValues are floating-point numbers. The integer part identifies the concept via range lookup. The fractional part expresses relative position within that concept — typically proximity to a threshold boundary, suggesting drift toward the adjacent concept. Interpretation of the fractional part is intentionally left to the consuming application.\n\nConcepts map exactly onto the RAG base vocabulary (https://currawong.games/vocab/rag) via skos:exactMatch.",
+      "creator": "https://currawong.games",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "hasTopConcept": [
+        "outlook:off-track",
+        "outlook:at-risk",
+        "outlook:on-track"
+      ]
+    },
+    {
+      "@id": "outlook:on-track",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/outlook",
+      "topConceptOf": "https://currawong.games/vocab/outlook",
+      "prefLabel": "On Track",
+      "definition": "Trajectory is within tolerance. No intervention required.",
+      "scopeNote": "Fractional values approaching 2.0 indicate drift toward the at-risk boundary.",
+      "exactMatch": "rag:green",
+      "rangeMin": 0.5,
+      "rangeMax": 1.5
+    },
+    {
+      "@id": "outlook:at-risk",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/outlook",
+      "topConceptOf": "https://currawong.games/vocab/outlook",
+      "prefLabel": "At Risk",
+      "definition": "Trajectory is approaching tolerance boundary. Early warning — monitor closely and consider corrective action.",
+      "scopeNote": "Fractional values approaching 3.0 indicate drift toward off-track; values approaching 1.0 indicate drift toward on-track.",
+      "exactMatch": "rag:amber",
+      "rangeMin": 1.5,
+      "rangeMax": 2.5
+    },
+    {
+      "@id": "outlook:off-track",
+      "@type": "skos:Concept",
+      "inScheme": "https://currawong.games/vocab/outlook",
+      "topConceptOf": "https://currawong.games/vocab/outlook",
+      "prefLabel": "Off Track",
+      "definition": "Trajectory is outside tolerance or requires immediate intervention.",
+      "scopeNote": "Fractional values approaching 1.0 indicate drift toward the at-risk boundary.",
+      "exactMatch": "rag:red",
+      "rangeMin": 2.5,
+      "rangeMax": 3.5
+    }
+  ]
+}
