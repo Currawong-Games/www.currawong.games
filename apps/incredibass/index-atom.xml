@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>IncrediBass by Currawong Games Interactive</title>
+  <subtitle>Personal software for the aspiring bassist. Track your practice sessions with easy access to your tab library, chord/fretboard charts and live sampling.</subtitle>
+  <link href="https://www.currawong.games/apps/incredibass/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/apps/incredibass/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-07-20T14:47:23.000Z</updated>
+  <id>https://www.currawong.games/apps/incredibass/</id>
+  <entry>
+    <title>IncrediBass by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/apps/incredibass/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/apps/incredibass/#35f8d5568b1c06a69daa1e71aa058af306af72a1</id>
+    <updated>2026-07-20T14:47:23.000Z</updated>
+    <summary type="html">Personal software for the aspiring bassist. Track your practice sessions with easy access to your tab library, chord/fretboard charts and live sampling.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+tbody tr:nth-child(odd) {
+  background: #7771;
+}
+
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
+  gap: 1rem;
+  place-items: center start;
+}
+dt {
+  grid-column: 1;
+}
+dd {
+  grid-column: 2;
+}
+
+ul {
+  padding-left: 1.5em;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+
+/* Syntax highlighting — feed-reader safe (static hex, no CSS variables) */
+pre {
+  overflow-x: auto;
+  padding: 1rem;
+  border-radius: 4px;
+  background: #141414;
+  border: 1px solid #404040;
+  font-size: 0.875em;
+  line-height: 1.5;
+}
+
+code {
+  display: block;
+  color: #f5f5f5;
+  font-family: ui-monospace, &#39;Cascadia Code&#39;, &#39;Source Code Pro&#39;, Menlo, Consolas,
+    &#39;DejaVu Sans Mono&#39;, monospace;
+}
+
+.hljs-keyword,
+.hljs-meta {
+  color: #ffd90d;
+  font-weight: bold;
+}
+
+.hljs-link {
+  color: #60a5fa;
+}
+
+.hljs-symbol,
+.hljs-attr {
+  color: #4ade80;
+}
+
+.hljs-string {
+  color: #86efac;
+}
+
+.hljs-type {
+  color: #d19700;
+}
+
+.hljs-number,
+.hljs-built_in {
+  color: #fb923c;
+}
+
+.hljs-comment {
+  color: #727272;
+  font-style: italic;
+}
+
+.hljs-literal {
+  color: #ffd90d;
+}
+
+.hljs-punctuation {
+  color: #a3a3a3;
+}
+
+a[download] {
+  text-decoration: none;
+  padding: 0.5em 1em;
+  border: 1px solid #404040;
+  border-radius: 4px;
+  background: #7771;
+}
+a[download]:is(:focus-within, :hover) {
+  background: #7773;
+}
+a[download]::before {
+  content: &quot;⬇️ &quot;;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;IncrediBass&lt;/h1&gt;&lt;p&gt;Personal software for the aspiring bassist. Track your practice sessions with easy access to your tab library, chord/fretboard charts and live sampling.&lt;/p&gt;&lt;/section&gt;&lt;div class=&quot;cols-2&quot;&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;faux-quote&quot;&gt;&lt;p&gt;What&#39;s your name again? Billy? Mac? Buddy! Bass Buddy!&lt;/p&gt;&lt;p&gt;My name is &lt;em&gt;not&lt;/em&gt; Buddy! I&#39;m IncrediBass!!&lt;/p&gt;&lt;/blockquote&gt;&lt;p class=&quot;text-right&quot;&gt;— Ben, quoting &lt;cite&gt;The Incredibles&lt;/cite&gt; and &lt;cite&gt;Sheryl Crow&lt;/cite&gt; badly.&lt;/p&gt;&lt;p&gt;Playing bass is fun. But operating a PC with a bass guitar over your shoulder is no easy feat. Optimised for bassists, &lt;i&gt;IncrediBass&lt;/i&gt; is optimised to work with minimal input so you can keep playing. Important functions are a single key away!&lt;/p&gt;&lt;table style=&quot;border-collapse:collapse&quot;&gt;&lt;caption&gt;Keyboard shortcuts&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Shortcut&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Description&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Why?&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;Spacebar&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Play/pause&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Standard convention.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;&amp;rarr;&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Skip song (next!)&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Standard skip, no reason provided.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;F&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Skip song (follow-up)&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;You&#39;re skipping now but you want to circle back later. Flag it for follow up!&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;L&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Skip song (still learning)&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Don&#39;t know how to play this song yet? Skip it today with &lt;kbd&gt;L&lt;/kbd&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;M&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Skip song (mood)&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Not feeling it today? Skip it and stay in the groove!&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;T&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Skip song (wrong tuning)&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Didn&#39;t want to switch to drop-D mid-session? No worries, &lt;kbd&gt;T&lt;/kbd&gt; skips the song.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;V&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;View tab&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Want a quick reminder how to play? Press &lt;kbd&gt;V&lt;/kbd&gt; to view the tab.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;5&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nailed it!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Rate your practice.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;4&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nailed it!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Rate your practice.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;3&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nailed it!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Rate your practice.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;2&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nailed it!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Rate your practice.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;kbd&gt;1&lt;/kbd&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nailed it!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Rate your practice.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Features&lt;/h2&gt;&lt;aside&gt;&lt;h3&gt;Convenience while you play&lt;/h3&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/incredibass/incredibass-tabs-501fe03d.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/incredibass/incredibass-tabs-501fe03d.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Automatic tab loading&lt;/figcaption&gt;&lt;/figure&gt;&lt;ul style=&quot;padding-left:1.5em&quot;&gt;&lt;li&gt;Easy skip&lt;/li&gt;&lt;li&gt;Rate your playing&lt;/li&gt;&lt;li&gt;View tabs&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;aside&gt;&lt;h3&gt;Audio analysis&lt;/h3&gt;&lt;figure&gt;&lt;video src=&quot;/assets/incredibass/incredibass-sample-f54d6dc7.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Live sampling&lt;/figcaption&gt;&lt;/figure&gt;&lt;ul style=&quot;padding-left:1.5em&quot;&gt;&lt;li&gt;Live analysis from mic/line-in&lt;/li&gt;&lt;li&gt;Playback media tracking&lt;/li&gt;&lt;li&gt;Offline analysis for deep understanding of bass lines&lt;/li&gt;&lt;li&gt;Tackle a live challenge with hero mode!&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;aside&gt;&lt;h3&gt;Useful learning tools&lt;/h3&gt;&lt;figure&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/incredibass/incredibass-chords-c599d4a0.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/incredibass/incredibass-chords-c599d4a0.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;figcaption&gt;Chords/fretboard reference chart&lt;/figcaption&gt;&lt;/figure&gt;&lt;ul style=&quot;padding-left:1.5em&quot;&gt;&lt;li&gt;Explore chords across the fretboard&lt;/li&gt;&lt;li&gt;Curate your play list&lt;/li&gt;&lt;li&gt;Review your practice strengths and weaknesses: what songs have you mastered? Which need more work?&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Roadmap&lt;/h2&gt;&lt;table style=&quot;border-collapse:collapse&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Status&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Feature&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Benefit&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;✅&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Music detection&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Detects currently playing media including artist, song, thumbnail and playback position.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;✅&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Automatic tab loading&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Point it at your tab library (tabs not included). Matches on artist/song. Press &lt;kbd&gt;V&lt;/kbd&gt; to &lt;samp&gt;&lt;u&gt;V&lt;/u&gt;iew Tab&lt;/samp&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Coming Soon&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Hero mode&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;(In Progress). Play against your past self — think you can nail it?&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;And more to come …&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

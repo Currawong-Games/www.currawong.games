@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
-  <title>Currawong Games — Rag</title>
-  <subtitle>Updates from the Rag section of Currawong Games</subtitle>
+  <title>RAG</title>
+  <subtitle>Projects at Currawong Games Interactive</subtitle>
   <link href="https://www.currawong.games/vocab/rag/" rel="alternate" type="text/html" />
   <link href="https://www.currawong.games/vocab/rag/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-07-20T14:51:52.960Z</updated>
+  <updated>2026-06-09T04:49:10.396Z</updated>
   <id>https://www.currawong.games/vocab/rag/</id>
 </feed>
