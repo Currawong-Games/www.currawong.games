@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Currawong Games — Time of Day</title>
+  <subtitle>Updates from the Time of Day section of Currawong Games</subtitle>
+  <link href="https://www.currawong.games/vocab/time-of-day/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/vocab/time-of-day/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-07-20T14:47:46.788Z</updated>
+  <id>https://www.currawong.games/vocab/time-of-day/</id>
+</feed>
