@@ -105,7 +105,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Early Morning",
       "definition": "The opening of the day — cool, low-angle light, long shadows, the world just waking. Distinct from established Morning in quality and feel.",
-      "scopeNote": "Sibling to Morning [2,3). Use Early Morning when the specific quality of the first daylight hours is narratively significant, as in a scene set at first activity of the day.",
+      "scopeNote": "Use Early Morning when the specific quality of the first daylight hours is narratively significant, as in a scene set at first activity of the day.",
       "broader": "tod:daytime",
       "rangeMin": 0.5,
       "rangeMax": 1.5
@@ -116,7 +116,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Morning",
       "definition": "Established morning light. The day is underway — warm, directional light, the world active.",
-      "scopeNote": "Distinct from Early Morning [1,2). Use Morning when the specific quality of early dawn light is not intended.",
+      "scopeNote": "Distinct from Early Morning. Use Morning when the specific quality of early dawn light is not intended.",
       "broader": "tod:daytime",
       "rangeMin": 1.5,
       "rangeMax": 2.5
@@ -127,7 +127,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Day",
       "definition": "Generic daylight. Neither morning nor afternoon — the broad middle of the day. Use when daylight is intended but the specific period is not narratively significant.",
-      "scopeNote": "The leaf concept for generic daytime, distinct from the Daytime container which spans the entire daylight period [0.5,6.5).",
+      "scopeNote": "The leaf concept for generic daytime, distinct from the Daytime container which spans the entire daylight period.",
       "broader": "tod:daytime",
       "rangeMin": 2.5,
       "rangeMax": 3.5
@@ -148,7 +148,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Afternoon",
       "definition": "The latter part of the day before evening. Light begins to warm and angle, shadows lengthen. The day winding toward its close.",
-      "scopeNote": "Distinct from Late Afternoon [6,7). Use Afternoon when the specific quality of the golden pre-evening light is not intended.",
+      "scopeNote": "Distinct from Late Afternoon. Use Afternoon when the specific quality of the golden pre-evening light is not intended.",
       "broader": "tod:daytime",
       "rangeMin": 4.5,
       "rangeMax": 5.5
@@ -159,7 +159,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Late Afternoon",
       "definition": "The warm, golden hours before evening — long shadows, directional amber light, the day drawing toward its close. The lead-in to Gloaming.",
-      "scopeNote": "Sibling to Afternoon [5,6). Use Late Afternoon when the specific quality of the pre-evening light is narratively significant.",
+      "scopeNote": "Use Late Afternoon when the specific quality of the pre-evening light is narratively significant.",
       "broader": "tod:daytime",
       "rangeMin": 5.5,
       "rangeMax": 6.5
@@ -199,7 +199,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Magic Hour",
       "definition": "The brief period of diffused, golden light shortly before sunset. A cinematography term for the most sought-after natural light quality — warm, directional, and fleeting.",
-      "scopeNote": "Also occurs briefly after sunrise, but is most commonly referenced in the pre-sunset context. For the dawn equivalent, see Sunrise [15, 16).",
+      "scopeNote": "Also occurs briefly after sunrise, but is most commonly referenced in the pre-sunset context. For the dawn equivalent, see Sunrise.",
       "broader": "tod:gloaming",
       "rangeMin": 7.5,
       "rangeMax": 8.5
@@ -267,7 +267,7 @@
       "inScheme": "https://currawong.games/vocab/time-of-day",
       "prefLabel": "Night",
       "definition": "Generic night. The hours of darkness after nightfall and before the small hours — the early-to-mid night. Use when darkness is intended but the specific phase is not narratively significant.",
-      "scopeNote": "The leaf concept for generic night-time, distinct from the Night-time container which spans the entire dark period [12.5,15.5).",
+      "scopeNote": "The leaf concept for generic night-time, distinct from the Night-time container which spans the entire dark period.",
       "broader": "tod:night-time",
       "rangeMin": 12.5,
       "rangeMax": 13.5

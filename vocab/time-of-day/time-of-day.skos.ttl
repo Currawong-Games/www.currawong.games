@@ -10,7 +10,7 @@ tod:afternoon a skos:Concept;
     skos:definition "The latter part of the day before evening. Light begins to warm and angle, shadows lengthen. The day winding toward its close."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Afternoon"@en;
-    skos:scopeNote "Distinct from Late Afternoon [6,7). Use Afternoon when the specific quality of the golden pre-evening light is not intended."@en;
+    skos:scopeNote "Distinct from Late Afternoon. Use Afternoon when the specific quality of the golden pre-evening light is not intended."@en;
     cgi:rangeMax "5.5E0"^^xsd:decimal;
     cgi:rangeMin "4.5E0"^^xsd:decimal.
 tod:daytime a skos:Concept;
@@ -51,7 +51,7 @@ tod:day a skos:Concept;
     skos:definition "Generic daylight. Neither morning nor afternoon — the broad middle of the day. Use when daylight is intended but the specific period is not narratively significant."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Day"@en;
-    skos:scopeNote "The leaf concept for generic daytime, distinct from the Daytime container which spans the entire daylight period [0.5,6.5)."@en;
+    skos:scopeNote "The leaf concept for generic daytime, distinct from the Daytime container which spans the entire daylight period."@en;
     cgi:rangeMax "3.5E0"^^xsd:decimal;
     cgi:rangeMin "2.5E0"^^xsd:decimal.
 tod:daybreak a skos:Concept;
@@ -66,7 +66,7 @@ tod:early-morning a skos:Concept;
     skos:definition "The opening of the day — cool, low-angle light, long shadows, the world just waking. Distinct from established Morning in quality and feel."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Early Morning"@en;
-    skos:scopeNote "Sibling to Morning [2,3). Use Early Morning when the specific quality of the first daylight hours is narratively significant, as in a scene set at first activity of the day."@en;
+    skos:scopeNote "Use Early Morning when the specific quality of the first daylight hours is narratively significant, as in a scene set at first activity of the day."@en;
     cgi:rangeMax "1.5E0"^^xsd:decimal;
     cgi:rangeMin "5.0E-1"^^xsd:decimal.
 tod:late-afternoon a skos:Concept;
@@ -74,7 +74,7 @@ tod:late-afternoon a skos:Concept;
     skos:definition "The warm, golden hours before evening — long shadows, directional amber light, the day drawing toward its close. The lead-in to Gloaming."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Late Afternoon"@en;
-    skos:scopeNote "Sibling to Afternoon [5,6). Use Late Afternoon when the specific quality of the pre-evening light is narratively significant."@en;
+    skos:scopeNote "Use Late Afternoon when the specific quality of the pre-evening light is narratively significant."@en;
     cgi:rangeMax "6.5E0"^^xsd:decimal;
     cgi:rangeMin "5.5E0"^^xsd:decimal.
 tod:morning a skos:Concept;
@@ -82,7 +82,7 @@ tod:morning a skos:Concept;
     skos:definition "Established morning light. The day is underway — warm, directional light, the world active."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Morning"@en;
-    skos:scopeNote "Distinct from Early Morning [1,2). Use Morning when the specific quality of early dawn light is not intended."@en;
+    skos:scopeNote "Distinct from Early Morning. Use Morning when the specific quality of early dawn light is not intended."@en;
     cgi:rangeMax "2.5E0"^^xsd:decimal;
     cgi:rangeMin "1.5E0"^^xsd:decimal.
 tod:noon a skos:Concept;
@@ -135,7 +135,7 @@ tod:magic-hour a skos:Concept;
     skos:definition "The brief period of diffused, golden light shortly before sunset. A cinematography term for the most sought-after natural light quality — warm, directional, and fleeting."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Magic Hour"@en;
-    skos:scopeNote "Also occurs briefly after sunrise, but is most commonly referenced in the pre-sunset context. For the dawn equivalent, see Sunrise [15, 16)."@en;
+    skos:scopeNote "Also occurs briefly after sunrise, but is most commonly referenced in the pre-sunset context. For the dawn equivalent, see Sunrise."@en;
     cgi:rangeMax "8.5E0"^^xsd:decimal;
     cgi:rangeMin "7.5E0"^^xsd:decimal.
 tod:nightfall a skos:Concept;
@@ -181,7 +181,7 @@ tod:night a skos:Concept;
     skos:definition "Generic night. The hours of darkness after nightfall and before the small hours — the early-to-mid night. Use when darkness is intended but the specific phase is not narratively significant."@en;
     skos:inScheme <https://currawong.games/vocab/time-of-day>;
     skos:prefLabel "Night"@en;
-    skos:scopeNote "The leaf concept for generic night-time, distinct from the Night-time container which spans the entire dark period [12.5,15.5)."@en;
+    skos:scopeNote "The leaf concept for generic night-time, distinct from the Night-time container which spans the entire dark period."@en;
     cgi:rangeMax "1.35E1"^^xsd:decimal;
     cgi:rangeMin "1.25E1"^^xsd:decimal.
 tod:small-hours a skos:Concept;
