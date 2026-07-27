@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Currawong Games — Services</title>
+  <subtitle>Updates from the Services section of Currawong Games</subtitle>
+  <link href="https://www.currawong.games/services/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/services/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-07-20T14:47:23.000Z</updated>
+  <id>https://www.currawong.games/services/</id>
+  <entry>
+    <title>Our Services at Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/services/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/services/#35f8d5568b1c06a69daa1e71aa058af306af72a1</id>
+    <updated>2026-07-20T14:47:23.000Z</updated>
+    <summary type="html">We offer multimedia, web and game design and development services.</summary>
+    <content type="html">&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;Our Services&lt;/h1&gt;&lt;p&gt;We&#39;ll help you build tools to make a difference in the world!&lt;/p&gt;&lt;p&gt;Contact us at &lt;a href=&quot;mailto:hello@currawong.games&quot;&gt;hello@currawong.games&lt;/a&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class=&quot;cards&quot;&gt;&lt;section class=&quot;card text-left&quot;&gt;&lt;h2&gt;Creative workflow tools&lt;/h2&gt;&lt;p&gt;Ben has over 10 years experience in creative workflow tools through working at Artella (Animation/Art review), Othelia Story Technologies (screenplay analysis and production), and best practice content management services.&lt;/p&gt;&lt;p&gt;Are your tools saving you time or are you jumping through hoops? Do your tools talk to each other, or do you have files and notes spread across fifty different apps?&lt;/p&gt;&lt;ul style=&quot;padding-left:1.5em&quot;&gt;&lt;li&gt;&lt;a href=&quot;/apps/studio/&quot;&gt;Currawong Studio&lt;/a&gt;: digital asset management with integrated task tracking for pre-production workflows&lt;/li&gt;&lt;li&gt;Artella: art/animation review, feeds, file management and review workflows&lt;/li&gt;&lt;li&gt;Othelia: screenplay import/parsing, narrative analysis, story production management.&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section class=&quot;card text-left&quot;&gt;&lt;h2&gt;Civic Services&lt;/h2&gt;&lt;p&gt;For government and non-profit organisations, we can help you build digital services that are accessible, user-friendly, and efficient.&lt;/p&gt;&lt;p&gt;Ben has 15+ years experience creating accessible solutions for Queensland Government, ranging across:&lt;/p&gt;&lt;ul style=&quot;padding-left:1.5em&quot;&gt;&lt;li&gt;Community engagement (Get Involved platform redesign)&lt;/li&gt;&lt;li&gt;Complex forms (Application for Domestic Violence Prevention Order)&lt;/li&gt;&lt;li&gt;Self-service portals (Neighbourhood Dispute Resolution)&lt;/li&gt;&lt;li&gt;Content managment (template development and integration across multiple departments, platforms and third-party service providers)&lt;/li&gt;&lt;li&gt;Online payments (Qld Government Payment API: invoices, receipts, donations, shopping carts).&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>
