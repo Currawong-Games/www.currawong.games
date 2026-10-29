@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Battleboats by Currawong Games Interactive</title>
+  <subtitle>Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</subtitle>
+  <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/projects/battleboats/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-05-04T06:12:16.000Z</updated>
+  <id>https://www.currawong.games/projects/battleboats/</id>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#9212b0663689ecdecaf169b6197abdbee5f22622</id>
+    <updated>2026-05-04T06:12:16.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#9d0eb6c45242c8664b0ac864570789b8f99e1579</id>
+    <updated>2026-05-04T06:02:11.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#d5e787dbfe0823a8cbba2647dae96bf3aacbed04</id>
+    <updated>2026-05-04T05:53:35.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Battleboats by Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/projects/battleboats/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/projects/battleboats/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Battleboats is a friendly competition on the high seas, using realtime controls two players navigate a small map and attempt to outlast each other.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1 class=&quot;small-caps&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/battleboats-title-92bb1970.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/battleboats-title-92bb1970.webp&quot; alt=&quot;Battleboats&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/h1&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;B2! You sunk my battleship!&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Battleboats is a top-down, real-time, tactically-chaotic artillery game. You are given command of a battleship with a singular mission: sink all ships in the enemy&#39;s fleet. Pick from different classes of ships, go from the meagre battleship to destroyers and aircraft carriers. Deck out the deck with a variety of turrets.&lt;/p&gt;&lt;/section&gt;&lt;table class=&quot;content fixed center&quot; style=&quot;border-collapse:collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;col width=&quot;20%&quot;&gt;&lt;caption&gt;Meet the Boats!&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Battleship&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Destroyer&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Dreadnought&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Aircraft Carrier&lt;/th&gt;&lt;th style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem;border-bottom:1px solid oklch(55.21% 0 0)&quot;&gt;Rowboat&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style=&quot;background:#137&quot;&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Battleship-0e733494.webp&quot; width=&quot;50&quot; alt=&quot;Battleship&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Destroyer-1572e405.webp&quot; width=&quot;50&quot; alt=&quot;Destroyer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Dreadnought-191b8dc9.webp&quot; width=&quot;50&quot; alt=&quot;Dreadnought&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_AircraftCarrier-80bba0b9.webp&quot; width=&quot;100&quot; alt=&quot;Aircraft Carrier&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;&lt;picture&gt;&lt;source srcset=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.avif&quot; type=&quot;image/avif&quot;&gt;&lt;img src=&quot;/assets/battleboats/Battleboats_Rowboat-a6c2b670.webp&quot; width=&quot;50&quot; alt=&quot;Rowboat&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/picture&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Nimble and fast, the battleship can quickly navigate the battlefield.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Balancing speed and firepower, the destroyer is a versatile choice.&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;A large battleship ready to dish out epic damage!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;Strike from the air and terrorise your opponents!&lt;/td&gt;&lt;td style=&quot;text-align:left;vertical-align:top;font-weight:normal;padding:1rem 0.5rem&quot;&gt;An Old Salt Dog piloting a rowboat with his trusty shotgun. The ultimate challenge for skilled players!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/colgroup&gt;&lt;/table&gt;&lt;section class=&quot;splash&quot;&gt;&lt;h2&gt;Development&lt;/h2&gt;&lt;figure&gt;&lt;video src=&quot;/assets/battleboats/2026-05-04 01-22-59-59ee66df.mp4&quot; controls=&quot;&quot;&gt;&lt;/video&gt;&lt;figcaption&gt;Early prototype gameplay (4 May 2026)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/section&gt;&lt;hr&gt;&lt;section class=&quot;content&quot;&gt;&lt;h2&gt;Future plans&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Larger Battles (10v10)?&lt;/li&gt;&lt;li&gt;Different Playstyles (PvP, PvE, Escalation, Customizable!)&lt;/li&gt;&lt;li&gt;PvP &amp; PvE&lt;/li&gt;&lt;li&gt;Solo Campaign&lt;/li&gt;&lt;li&gt;Skins&lt;/li&gt;&lt;li&gt;Attach things to the command tower for abilities?&lt;/li&gt;&lt;li&gt;Conning Tower&lt;/li&gt;&lt;li&gt;False Flag (disguise as enemy ship, or appear damaged?)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Inspired by games we love: Worms, Super Smash Bros, and of course, Battleship.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+</feed>
