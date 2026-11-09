@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU">
+  <title>Currawong Games — About</title>
+  <subtitle>Updates from the About section of Currawong Games</subtitle>
+  <link href="https://www.currawong.games/about/" rel="alternate" type="text/html" />
+  <link href="https://www.currawong.games/about/atom.xml" rel="self" type="application/atom+xml" />
+  <updated>2026-05-04T05:11:17.000Z</updated>
+  <id>https://www.currawong.games/about/</id>
+  <entry>
+    <title>About Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/about/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/about/#fa0ff7185c9624bba1de519722e0744c08056c1c</id>
+    <updated>2026-05-04T05:11:17.000Z</updated>
+    <summary type="html">Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;About Currawong Games Interactive&lt;/h1&gt;&lt;/section&gt;&lt;div class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;We want people to play a Currawong game and immediately want to tell someone about it.&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Story&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;Currawong Games Interactive is a father-son indie game studio based in &lt;a href=&quot;/upper-caboolture/&quot;&gt;Upper Caboolture, Queensland&lt;/a&gt;. We develop story-driven and family-friendly games, interactive narrative experiences, and creator tools — with an Australian flavour. We empower creatives through community participation, tools and transparency.&lt;/p&gt;&lt;p&gt;We offer story-rich, fairly priced games designed for players who value narrative depth and experiences worth sharing with the people they love.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Casual players looking for relaxed or story-driven games.&lt;/li&gt;&lt;li&gt;Parents and families sharing games/experiences.&lt;/li&gt;&lt;li&gt;Fans looking for rich franchises to become engrossed in.&lt;/li&gt;&lt;li&gt;Aspiring game developers, artists, creators with similar passions.&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Goals&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;To build a sustainable creative practice that supports our family, advances the craft of interactive storytelling, and gives back to the broader creative community — putting &lt;a href=&quot;/upper-caboolture/&quot;&gt;Caboolture&lt;/a&gt; on the map along the way.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>About Currawong Games Interactive</title>
+    <link href="https://www.currawong.games/about/" rel="alternate" type="text/html" />
+    <id>https://www.currawong.games/about/#2c2fe46aa1c98b9eb1bc2d697c16b23311b3632d</id>
+    <updated>2026-04-05T05:27:48.000Z</updated>
+    <summary type="html">Currawong Games Interactive is a father-son indie game studio based in Upper Caboolture, Queensland.</summary>
+    <content type="html">&lt;style&gt;table {
+  border-collapse: collapse;
+}
+table.fixed {
+  table-layout: fixed;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  font-weight: normal;
+  padding: 1rem 0.5rem;
+}
+table.center th,
+table.center td {
+  text-align: center;
+  vertical-align: middle;
+}
+thead th {
+  border-bottom: 1px solid oklch(55.21% 0 0);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+.pull-quote {
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  font-weight: 900;
+}
+&lt;/style&gt;
+&lt;section class=&quot;hero&quot;&gt;&lt;h1&gt;About Currawong Games Interactive&lt;/h1&gt;&lt;/section&gt;&lt;div class=&quot;content&quot;&gt;&lt;blockquote class=&quot;pull-quote&quot;&gt;&lt;p&gt;We want people to play a Currawong game and immediately want to tell someone about it.&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Story&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;Currawong Games Interactive is a father-son indie game studio based in &lt;a href=&quot;/upper-caboolture/&quot;&gt;Upper Caboolture, Queensland&lt;/a&gt;. We develop story-driven and family-friendly games, interactive narrative experiences, and creator tools — with an Australian flavour. We empower creatives through community participation, tools and transparency.&lt;/p&gt;&lt;p&gt;We offer story-rich, fairly priced games designed for players who value narrative depth and experiences worth sharing with the people they love.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Casual players looking for relaxed or story-driven games.&lt;/li&gt;&lt;li&gt;Parents and families sharing games/experiences.&lt;/li&gt;&lt;li&gt;Fans looking for rich franchises to become engrossed in.&lt;/li&gt;&lt;li&gt;Aspiring game developers, artists, creators with similar passions.&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section class=&quot;content&quot;&gt;&lt;header&gt;&lt;h2&gt;Our Goals&lt;/h2&gt;&lt;/header&gt;&lt;p&gt;To build a sustainable creative practice that supports our family, advances the craft of interactive storytelling, and gives back to the broader creative community — putting &lt;a href=&quot;/upper-caboolture/&quot;&gt;Caboolture&lt;/a&gt; on the map along the way.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+</feed>
